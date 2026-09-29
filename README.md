@@ -44,6 +44,27 @@ Par exemple, le calendrier peut être hébergé dans Radicale, synchronisé sur 
 
 Plus simplement, le fichier ICS peut aussi être importé localement dans une application prenant en charge le format iCalendar, comme Fossify Calendar, Microsoft Outlook, Mozilla Thunderbird ou Apple Calendar.
 
+## Aperçu
+
+<table>
+  <tr>
+    <td align="center"><strong>Vue agenda</strong></td>
+    <td align="center"><strong>Détail d'un événement</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="captures/fossify-vue-agenda.jpg"
+           alt="Vue agenda du calendrier des saints Nominis dans Fossify Calendar"
+           width="350">
+    </td>
+    <td>
+      <img src="captures/fossify-detail-evenement.jpg"
+           alt="Détail d'un événement du calendrier des saints Nominis dans Fossify Calendar"
+           width="350">
+    </td>
+  </tr>
+</table>
+
 ## Utilisation du script
 
 ### Prérequis
