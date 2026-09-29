@@ -37,6 +37,7 @@ Il a notamment été testé avec :
 - [Fossify Calendar](https://www.fossify.org/) ([GitHub](https://github.com/FossifyOrg/Calendar))
 
 Par exemple, un calendrier hébergé dans Radicale peut être synchronisé sur Android avec DAVx⁵, puis affiché dans Fossify Calendar. 
+
 Plus simplement, le fichier ICS peut aussi être importé localement dans n'importe quelle application prenant en charge le format iCalendar, comme Fossify Calendar, Microsoft Outlook, Mozilla Thunderbird ou Apple Calendar.
 
 ## Utilisation du script
