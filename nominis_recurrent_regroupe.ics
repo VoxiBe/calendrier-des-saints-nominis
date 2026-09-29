@@ -1,0 +1,5031 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendrier Nominis récurrent//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fêtes et saints — Nominis
+X-WR-CALDESC:Calendrier Nominis regroupé par jour et converti en récurren
+ ces annuelles.
+BEGIN:VEVENT
+UID:nominis-0101-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marie\, mère de Dieu
+DESCRIPTION:Sainte Marie\, mère de Dieu - (Ier siècle)\nhttps://nominis.c
+ ef.fr/contenus/saint/349/Sainte-Marie--m%C3%A8re-de-Dieu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0102-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Basile le Grand • Saint Grégoire de Nazianze
+DESCRIPTION:Saint Basile le Grand - Moine\, évêque de Césarée de Cappad
+ oce\, docteur de l'Église (+ 379)\nhttps://nominis.cef.fr/contenus/saint/
+ 353/Saint-Basile-le-Grand.html\n\nSaint Grégoire de Nazianze - Patriarche
+  de Constantinople\, docteur de l'Église (+ 390)\nhttps://nominis.cef.fr/
+ contenus/saint/356/Saint-Gr%C3%A9goire-de-Nazianze.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0103-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Geneviève
+DESCRIPTION:Sainte Geneviève - Vierge à Paris (+ v. 500)\nhttps://nominis
+ .cef.fr/contenus/saint/355/Sainte-Genevi%C3%A8ve.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0104-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Angèle de Foligno
+DESCRIPTION:Sainte Angèle de Foligno - Pénitente italienne (+ 1310)\nhttp
+ s://nominis.cef.fr/contenus/saint/365/Sainte-Ang%C3%A8le-de-Foligno.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0105-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Edouard le Confesseur
+DESCRIPTION:Saint Edouard le Confesseur - Roi d'Angleterre (+ 1066)\nhttps:
+ //nominis.cef.fr/contenus/saint/372/Saint-Edouard-le-Confesseur.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0106-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Épiphanie du Seigneur -
+DESCRIPTION:Épiphanie du Seigneur -\nhttps://nominis.cef.fr/contenus/saint
+ /9987/%C3%89piphanie-du-Seigneur.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0107-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Raymond de Peñafort
+DESCRIPTION:Saint Raymond de Peñafort - Maître général des Dominicains 
+ (+ 1275)\nhttps://nominis.cef.fr/contenus/saint/388/Saint-Raymond-de-Pe%C3
+ %B1afort.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0108-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Lucien de Beauvais
+DESCRIPTION:Saint Lucien de Beauvais - Martyr en Beauvaisis (+ 290)\nhttps:
+ //nominis.cef.fr/contenus/saint/392/Saint-Lucien-de-Beauvais.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0109-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Alix Le Clerc
+DESCRIPTION:Bienheureuse Alix Le Clerc - Fondatrice  de la congrégation de
+ s Chanoinesses de Notre-Dame (+ 1622)\nhttps://nominis.cef.fr/contenus/sai
+ nt/395/Bienheureuse-Alix-Le-Clerc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0110-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Guillaume de Bourges
+DESCRIPTION:Saint Guillaume de Bourges - Guillaume du Donjon\, archevêque 
+ de Bourges (+ 1209)\nhttps://nominis.cef.fr/contenus/saint/404/Saint-Guill
+ aume-de-Bourges.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0111-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Paulin d'Aquilée
+DESCRIPTION:Saint Paulin d'Aquilée - évêque d'Aquilée (+ 802)\nhttps://
+ nominis.cef.fr/contenus/saint/410/Saint-Paulin-d-Aquil%C3%A9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0112-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marguerite Bourgeoys • Sainte Tatiana de Rome
+DESCRIPTION:Sainte Marguerite Bourgeoys - Fondatrice de la congrégation de
+  Notre-Dame (+ 1700)\nhttps://nominis.cef.fr/contenus/saint/417/Sainte-Mar
+ guerite-Bourgeoys.html\n\nSainte Tatiana de Rome - Martyre (+ 226)\nhttps:
+ //nominis.cef.fr/contenus/saint/418/Sainte-Tatiana-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0113-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Hilaire de Poitiers
+DESCRIPTION:Saint Hilaire de Poitiers - évêque de Poitiers\, Docteur de l
+ 'Église (+ v. 367)\nhttps://nominis.cef.fr/contenus/saint/421/Saint-Hilai
+ re-de-Poitiers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0114-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Nino
+DESCRIPTION:Sainte Nino - Vénérée en Géorgie (IVe siècle)\nhttps://nom
+ inis.cef.fr/contenus/saint/260/Sainte-Nino.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0115-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Remi
+DESCRIPTION:Saint Remi - évêque de Reims (+ 530)\nhttps://nominis.cef.fr/
+ contenus/saint/439/Saint-Remi.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0116-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Honorat • Saint Marcel Ier
+DESCRIPTION:Saint Honorat - Abbé de Lérins et évêque d'Arles (+ 430)\nh
+ ttps://nominis.cef.fr/contenus/saint/444/Saint-Honorat.html\n\nSaint Marce
+ l Ier - Pape (30e) de 308 à 309 et martyr (+ 309)\nhttps://nominis.cef.fr
+ /contenus/saint/445/Saint-Marcel-Ier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0117-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Antoine le Grand
+DESCRIPTION:Saint Antoine le Grand - Ermite en Egypte (+ 356)\nhttps://nomi
+ nis.cef.fr/contenus/saint/446/Saint-Antoine-le-Grand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0118-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marguerite de Hongrie
+DESCRIPTION:Sainte Marguerite de Hongrie - Princesse hongroise\, moniale do
+ minicaine (+ 1270)\nhttps://nominis.cef.fr/contenus/saint/455/Sainte-Margu
+ erite-de-Hongrie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0119-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Germanicus
+DESCRIPTION:Saint Germanicus - Martyr\, disciple de saint Polycarpe (+ 168)
+ \nhttps://nominis.cef.fr/contenus/saint/5241/Saint-Germanicus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0120-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Fabien • Saint Sébastien
+DESCRIPTION:Saint Fabien - Pape (20e) de 236 à 250 et martyr (+ 250)\nhttp
+ s://nominis.cef.fr/contenus/saint/469/Saint-Fabien.html\n\nSaint Sébastie
+ n - Martyr à Rome (+ v. 284)\nhttps://nominis.cef.fr/contenus/saint/470/S
+ aint-S%C3%A9bastien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0121-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Agnès de Rome
+DESCRIPTION:Sainte Agnès de Rome - Martyre (+ v. 304)\nhttps://nominis.cef
+ .fr/contenus/saint/471/Sainte-Agn%C3%A8s-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0122-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Vincent
+DESCRIPTION:Saint Vincent - Diacre de Saragosse\, martyr à Valence (+ 304)
+ \nhttps://nominis.cef.fr/contenus/saint/483/Saint-Vincent.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0123-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ildefonse de Tolède
+DESCRIPTION:Saint Ildefonse de Tolède - évêque de Tolède (+ 669)\nhttps
+ ://nominis.cef.fr/contenus/saint/489/Saint-Ildefonse-de-Tol%C3%A8de.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0124-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint François de Sales
+DESCRIPTION:Saint François de Sales - évêque de Genève\, docteur de l'E
+ glise (+ 1622)\nhttps://nominis.cef.fr/contenus/saint/494/Saint-Fran%C3%A7
+ ois-de-Sales.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0125-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Conversion de Saint Paul -
+DESCRIPTION:Conversion de Saint Paul -\nhttps://nominis.cef.fr/contenus/sai
+ nt/500/Conversion-de-Saint-Paul.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0126-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Tite et Timothée
+DESCRIPTION:Saints Tite et Timothée - Disciples et compagnons de saint Pau
+ l (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/511/Saints-Tite-et-
+ Timoth%C3%A9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0127-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Angèle Merici • Sainte Dévote
+DESCRIPTION:Sainte Angèle Merici - Fondatrice de la Compagnie de Sainte Ur
+ sule de Brescia (+ 1540)\nhttps://nominis.cef.fr/contenus/saint/513/Sainte
+ -Ang%C3%A8le-Merici.html\n\nSainte Dévote - Vierge et martyre (+ 304)\nht
+ tps://nominis.cef.fr/contenus/saint/514/Sainte-D%C3%A9vote.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0128-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Thomas d'Aquin
+DESCRIPTION:Saint Thomas d'Aquin - Frère prêcheur\, docteur de l'Église 
+ (+ 1274)\nhttps://nominis.cef.fr/contenus/saint/524/Saint-Thomas-d-Aquin.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0129-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gildas
+DESCRIPTION:Saint Gildas - Abbé en Bretagne (+ 570)\nhttps://nominis.cef.f
+ r/contenus/saint/526/Saint-Gildas.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0130-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Martine
+DESCRIPTION:Sainte Martine - Martyre à Rome (+ 226)\nhttps://nominis.cef.f
+ r/contenus/saint/531/Sainte-Martine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0131-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean Bosco • Sainte Marcella
+DESCRIPTION:Saint Jean Bosco - Fondateur et éducateur (+ 1888)\nhttps://no
+ minis.cef.fr/contenus/saint/534/Saint-Jean-Bosco.html\n\nSainte Marcella -
+  Moniale à Rome\, disciple de Saint Jérôme (+ 410)\nhttps://nominis.cef
+ .fr/contenus/saint/535/Sainte-Marcella.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0201-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Brigitte de Kildare
+DESCRIPTION:Sainte Brigitte de Kildare - Abbesse en Irlande (+ 523)\nhttps:
+ //nominis.cef.fr/contenus/saint/538/Sainte-Brigitte-de-Kildare.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0202-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Présentation de Jésus au Temple
+DESCRIPTION:Présentation de Jésus au Temple - Rencontre du Seigneur Jésu
+ s avec le vieillard Syméon\nhttps://nominis.cef.fr/contenus/saint/549/Pr%
+ C3%A9sentation-de-J%C3%A9sus-au-Temple.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0203-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Blaise de Sébaste
+DESCRIPTION:Saint Blaise de Sébaste - évêque et martyr en Arménie (+ 31
+ 6)\nhttps://nominis.cef.fr/contenus/saint/553/Saint-Blaise-de-S%C3%A9baste
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0204-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Véronique
+DESCRIPTION:Sainte Véronique - Femme ayant essuyé le visage du Christ mon
+ tant au Golgotha (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/570/
+ Sainte-V%C3%A9ronique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0205-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Agathe de Catane
+DESCRIPTION:Sainte Agathe de Catane - Martyre en Sicile (+ 251)\nhttps://no
+ minis.cef.fr/contenus/saint/571/Sainte-Agathe-de-Catane.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0206-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gaston • Saint Paul Miki
+DESCRIPTION:Saint Gaston - Waast ou Vaast\, évêque d'Arras (+ 540)\nhttps
+ ://nominis.cef.fr/contenus/saint/2123/Saint-Gaston.html\n\nSaint Paul Miki
+  - Et ses compagnons(*) martyrs au Japon (+ 1597)\nhttps://nominis.cef.fr/
+ contenus/saint/580/Saint-Paul-Miki.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0207-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Eugénie Smet
+DESCRIPTION:Bienheureuse Eugénie Smet - Fondatrice des Auxiliatrices des 
+ Âmes du Purgatoire (+ 1871)\nhttps://nominis.cef.fr/contenus/saint/583/Bi
+ enheureuse-Eug%C3%A9nie-Smet.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0208-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Joséphine Bakhita
+DESCRIPTION:Sainte Joséphine Bakhita - Religieuse (+ 1947)\nhttps://nomini
+ s.cef.fr/contenus/saint/9941/Sainte-Jos%C3%A9phine-Bakhita.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0209-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Apolline
+DESCRIPTION:Sainte Apolline - Martyre à Alexandrie (+ 249)\nhttps://nomini
+ s.cef.fr/contenus/saint/599/Sainte-Apolline.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0210-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Scholastique
+DESCRIPTION:Sainte Scholastique - Moniale\, soeur de saint Benoît (+ 543)\
+ nhttps://nominis.cef.fr/contenus/saint/609/Sainte-Scholastique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0211-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Héloïse • Notre-Dame de Lourdes -
+DESCRIPTION:Bienheureuse Héloïse - Ermite bénédictine (+ v. 1066)\nhttp
+ s://nominis.cef.fr/contenus/saint/9915/Bienheureuse-H%C3%A9lo%C3%AFse.html
+ \n\nNotre-Dame de Lourdes -\nhttps://nominis.cef.fr/contenus/saint/615/Not
+ re-Dame-de-Lourdes.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0212-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Ombeline
+DESCRIPTION:Bienheureuse Ombeline - Moniale cistercienne - Soeur de saint B
+ ernard (+ v. 1141)\nhttps://nominis.cef.fr/contenus/saint/9866/Bienheureus
+ e-Ombeline.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0213-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gilbert
+DESCRIPTION:Saint Gilbert - évêque de Meaux (+ v. 1009)\nhttps://nominis.
+ cef.fr/contenus/saint/5729/Saint-Gilbert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0214-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Cyrille et Méthode • Saint Valentin
+DESCRIPTION:Saints Cyrille et Méthode - Apôtres des Slaves (IXe siècle)\
+ nhttps://nominis.cef.fr/contenus/saint/638/Saints-Cyrille-et-M%C3%A9thode.
+ html\n\nSaint Valentin - Martyr et évêque de Terni... (+ v. 269)\nhttps:
+ //nominis.cef.fr/contenus/saint/641/Saint-Valentin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0215-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Claude La Colombière
+DESCRIPTION:Saint Claude La Colombière - Jésuite\, confesseur de sainte M
+ arguerite-Marie (+ 1682)\nhttps://nominis.cef.fr/contenus/saint/642/Saint-
+ Claude-La-Colombi%C3%A8re.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0216-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Julienne de Nicomédie
+DESCRIPTION:Sainte Julienne de Nicomédie - Martyre en Bithynie (IVe siècl
+ e)\nhttps://nominis.cef.fr/contenus/saint/652/Sainte-Julienne-de-Nicom%C3%
+ A9die.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0217-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Alexis Falconieri
+DESCRIPTION:Saint Alexis Falconieri - Et les fondateurs des Servites (+ 131
+ 0)\nhttps://nominis.cef.fr/contenus/saint/656/Saint-Alexis-Falconieri.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0218-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Bernadette Soubirous
+DESCRIPTION:Sainte Bernadette Soubirous - Jeune fille à laquelle la Vierge
+  Marie apparut (+ 1879)\nhttps://nominis.cef.fr/contenus/saint/662/Sainte-
+ Bernadette-Soubirous.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0219-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gabin de Rome
+DESCRIPTION:Saint Gabin de Rome - Martyr à Rome (+ 286)\nhttps://nominis.c
+ ef.fr/contenus/saint/669/Saint-Gabin-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0220-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Aimée
+DESCRIPTION:Sainte Aimée - Nièce de sainte Claire d'Assise (+ 1252)\nhttp
+ s://nominis.cef.fr/contenus/saint/672/Sainte-Aim%C3%A9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0221-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pierre Damien
+DESCRIPTION:Saint Pierre Damien - évêque d'Ostie\, docteur de l'Église (
+ + 1072)\nhttps://nominis.cef.fr/contenus/saint/681/Saint-Pierre-Damien.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0222-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Isabelle de France
+DESCRIPTION:Bienheureuse Isabelle de France - Soeur de Saint Louis (+ 1270)
+ \nhttps://nominis.cef.fr/contenus/saint/684/Bienheureuse-Isabelle-de-Franc
+ e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0223-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Polycarpe
+DESCRIPTION:Saint Polycarpe - évêque de Smyrne (+ 167)\nhttps://nominis.c
+ ef.fr/contenus/saint/690/Saint-Polycarpe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0224-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Modeste
+DESCRIPTION:Saint Modeste - évêque de Trèves et confesseur (+ v. 480)\nh
+ ttps://nominis.cef.fr/contenus/saint/695/Saint-Modeste.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0225-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Nestor de Pamphylie
+DESCRIPTION:Saint Nestor de Pamphylie - Évêque de Magydos\, en Pamphylie\
+ , martyr (+ 251)\nhttps://nominis.cef.fr/contenus/saint/706/Saint-Nestor-d
+ e-Pamphylie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0226-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Alexandre
+DESCRIPTION:Saint Alexandre - Évêque d'Alexandrie (+ 326)\nhttps://nomini
+ s.cef.fr/contenus/saint/5846/Saint-Alexandre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0227-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Grégoire de Narek • Sainte Honorine
+DESCRIPTION:Saint Grégoire de Narek - Moine au monastère de Narek\, docte
+ ur de l'Église (+ v. 1005)\nhttps://nominis.cef.fr/contenus/saint/5899/Sa
+ int-Gr%C3%A9goire-de-Narek.html\n\nSainte Honorine - Vénérée dans les 
+ évêchés de Bayeux et de Rouen (IVe siècle)\nhttps://nominis.cef.fr/con
+ tenus/saint/711/Sainte-Honorine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0228-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Auguste Chapdelaine • Saint Romain
+DESCRIPTION:Saint Auguste Chapdelaine - Missionnaire\, martyr en Chine (+ 1
+ 856)\nhttps://nominis.cef.fr/contenus/saint/5894/Saint-Auguste-Chapdelaine
+ .html\n\nSaint Romain - Abbé du Jura\, frère de saint Lupicin (+ 460)\nh
+ ttps://nominis.cef.fr/contenus/saint/721/Saint-Romain.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0301-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Aubin d'Angers
+DESCRIPTION:Saint Aubin d'Angers - Abbé de Tincillac puis évêque (+ 550)
+ \nhttps://nominis.cef.fr/contenus/saint/724/Saint-Aubin-d-Angers.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0302-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Charles le Bon
+DESCRIPTION:Bienheureux Charles le Bon - Comte de Flandre\, martyr (+ 1127)
+ \nhttps://nominis.cef.fr/contenus/saint/732/Bienheureux-Charles-le-Bon.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0303-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Guénolé
+DESCRIPTION:Saint Guénolé - Fondateur de l'abbaye de Landévennec (+ 504)
+ \nhttps://nominis.cef.fr/contenus/saint/88/Saint-Gu%C3%A9nol%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0304-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Casimir
+DESCRIPTION:Saint Casimir - Fils de Casimir IV de Pologne (+ 1484)\nhttps:/
+ /nominis.cef.fr/contenus/saint/742/Saint-Casimir.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0305-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Olive • Saint Virgile
+DESCRIPTION:Sainte Olive - Martyre à Brescia (IIe siècle)\nhttps://nomini
+ s.cef.fr/contenus/saint/753/Sainte-Olive.html\n\nSaint Virgile - évêque 
+ d'Arles (+ v. 610)\nhttps://nominis.cef.fr/contenus/saint/6053/Saint-Virgi
+ le.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0306-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Colette de Corbie
+DESCRIPTION:Sainte Colette de Corbie - Réformatrice des Clarisses (+ 1447)
+ \nhttps://nominis.cef.fr/contenus/saint/759/Sainte-Colette-de-Corbie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0307-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saintes Perpétue et Félicité
+DESCRIPTION:Saintes Perpétue et Félicité - Martyres à Carthage (+ 203)\
+ nhttps://nominis.cef.fr/contenus/saint/768/Saintes-Perp%C3%A9tue-et-F%C3%A
+ 9licit%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0308-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean de Dieu
+DESCRIPTION:Saint Jean de Dieu - Fondateur des Frères de la Charité (+ 15
+ 50)\nhttps://nominis.cef.fr/contenus/saint/772/Saint-Jean-de-Dieu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0309-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Françoise Romaine
+DESCRIPTION:Sainte Françoise Romaine - Pénitente romaine (+ 1440)\nhttps:
+ //nominis.cef.fr/contenus/saint/777/Sainte-Fran%C3%A7oise-Romaine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0310-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Vivien
+DESCRIPTION:Saint Vivien - Soldat romain\, martyr en Cappadoce (+ 320)\nhtt
+ ps://nominis.cef.fr/contenus/saint/2126/Saint-Vivien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0311-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Rosine
+DESCRIPTION:Sainte Rosine - Martyre des premiers siècles\nhttps://nominis.
+ cef.fr/contenus/saint/786/Sainte-Rosine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0312-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Justine
+DESCRIPTION:Bienheureuse Justine - Bénédictine en Toscane (+ 1319)\nhttps
+ ://nominis.cef.fr/contenus/saint/2127/Bienheureuse-Justine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0313-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Rodrigue et Salomon de Cordoue
+DESCRIPTION:Saints Rodrigue et Salomon de Cordoue - Martyrs de Cordoue (+ 8
+ 57)\nhttps://nominis.cef.fr/contenus/saint/805/Saints-Rodrigue-et-Salomon-
+ de-Cordoue.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0314-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Mathilde
+DESCRIPTION:Sainte Mathilde - Reine de Germanie (+ 968)\nhttps://nominis.ce
+ f.fr/contenus/saint/808/Sainte-Mathilde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0315-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Louise de Marillac
+DESCRIPTION:Sainte Louise de Marillac - Fondatrice des filles de la Charit
+ é (+ 1660)\nhttps://nominis.cef.fr/contenus/saint/810/Sainte-Louise-de-Ma
+ rillac.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0316-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Bénédicte
+DESCRIPTION:Bienheureuse Bénédicte - Clarisse à Saint-Damien\, succéda 
+ à sainte Claire (+ 1260)\nhttps://nominis.cef.fr/contenus/saint/813/Bienh
+ eureuse-B%C3%A9n%C3%A9dicte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0317-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Patrick
+DESCRIPTION:Saint Patrick - Confesseur\, évêque missionnaire en Irlande (
+ + 461)\nhttps://nominis.cef.fr/contenus/saint/825/Saint-Patrick.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0318-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Cyrille de Jérusalem
+DESCRIPTION:Saint Cyrille de Jérusalem - évêque de Jérusalem\, docteur 
+ de l'Église (+ 387)\nhttps://nominis.cef.fr/contenus/saint/828/Saint-Cyri
+ lle-de-J%C3%A9rusalem.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0319-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Joseph
+DESCRIPTION:Saint Joseph - époux de la Vierge Marie (Ier siècle)\nhttps:/
+ /nominis.cef.fr/contenus/saint/833/Saint-Joseph.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0320-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Herbert
+DESCRIPTION:Saint Herbert - Ermite au milieu d'un lac en Angleterre (+ 687)
+ \nhttps://nominis.cef.fr/contenus/saint/838/Saint-Herbert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0321-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Clémence
+DESCRIPTION:Bienheureuse Clémence - Religieuse bénédictine (+ 1176)\nhtt
+ ps://nominis.cef.fr/contenus/saint/842/Bienheureuse-Cl%C3%A9mence.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0322-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Léa
+DESCRIPTION:Sainte Léa - Dame romaine\, disciple de saint Jérôme (+ 384)
+ \nhttps://nominis.cef.fr/contenus/saint/848/Sainte-L%C3%A9a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0323-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Toribio Alfonso de Mogrovejo
+DESCRIPTION:Saint Toribio Alfonso de Mogrovejo - Archevêque de Lima (+ 160
+ 6)\nhttps://nominis.cef.fr/contenus/saint/849/Saint-Toribio-Alfonso-de-Mog
+ rovejo.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0324-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Catherine de Suède
+DESCRIPTION:Sainte Catherine de Suède - Fille de sainte Brigitte\, moniale
+  à Vadstena (+ 1381)\nhttps://nominis.cef.fr/contenus/saint/853/Sainte-Ca
+ therine-de-Su%C3%A8de.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0325-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Annonciation
+DESCRIPTION:Annonciation - L'annonciation à la Vierge Marie\nhttps://nomin
+ is.cef.fr/contenus/saint/856/Annonciation.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0326-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Larissa
+DESCRIPTION:Sainte Larissa - Et ses compagnons\, martyrs en Crimée (IVe si
+ ècle)\nhttps://nominis.cef.fr/contenus/saint/867/Sainte-Larissa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0327-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Rupert de Salzbourg
+DESCRIPTION:Saint Rupert de Salzbourg - évêque (+ 718)\nhttps://nominis.c
+ ef.fr/contenus/saint/6346/Saint-Rupert-de-Salzbourg.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0328-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gontran
+DESCRIPTION:Saint Gontran - Roi de Bourgogne (+ 592)\nhttps://nominis.cef.f
+ r/contenus/saint/876/Saint-Gontran.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0329-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Gladys
+DESCRIPTION:Sainte Gladys - Veuve\, ermite au pays de Galles (Ve siècle)\n
+ https://nominis.cef.fr/contenus/saint/884/Sainte-Gladys.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0330-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Amédée IX
+DESCRIPTION:Bienheureux Amédée IX - Duc de Savoie (+ 1472)\nhttps://nomin
+ is.cef.fr/contenus/saint/888/Bienheureux-Am%C3%A9d%C3%A9e-IX.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0331-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Benjamin de Perse
+DESCRIPTION:Saint Benjamin de Perse - Diacre\, martyr en Perse (+ 401)\nhtt
+ ps://nominis.cef.fr/contenus/saint/896/Saint-Benjamin-de-Perse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0401-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Hugues de Grenoble
+DESCRIPTION:Saint Hugues de Grenoble - évêque de Grenoble (+ 1132)\nhttps
+ ://nominis.cef.fr/contenus/saint/901/Saint-Hugues-de-Grenoble.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0402-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint François de Paule
+DESCRIPTION:Saint François de Paule - Ermite\, fondateur de l'ordre des Mi
+ nimes (+ 1507)\nhttps://nominis.cef.fr/contenus/saint/906/Saint-Fran%C3%A7
+ ois-de-Paule.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0403-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Richard de Chichester
+DESCRIPTION:Saint Richard de Chichester - Chancelier de l'université d'Oxf
+ ord\, évêque de Chichester (+ 1253)\nhttps://nominis.cef.fr/contenus/sai
+ nt/913/Saint-Richard-de-Chichester.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0404-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Isidore de Séville
+DESCRIPTION:Saint Isidore de Séville - Docteur de l'Église - Évêque et 
+ confesseur (+ 636)\nhttps://nominis.cef.fr/contenus/saint/915/Saint-Isidor
+ e-de-S%C3%A9ville.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0405-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Irène
+DESCRIPTION:Sainte Irène - Martyre à Thessalonique\, avec Agapé et Chion
+ a (+ 304)\nhttps://nominis.cef.fr/contenus/saint/2130/Sainte-Ir%C3%A8ne.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0406-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Célestin Ier
+DESCRIPTION:Saint Célestin Ier - Pape (43e) de 422 à 432 (+ 432)\nhttps:/
+ /nominis.cef.fr/contenus/saint/1570/Saint-C%C3%A9lestin-Ier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0407-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean Baptiste de La Salle
+DESCRIPTION:Saint Jean Baptiste de La Salle - Fondateur des Frères des Eco
+ les Chrétiennes (+ 1719)\nhttps://nominis.cef.fr/contenus/saint/931/Saint
+ -Jean-Baptiste-de-La-Salle.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0408-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gautier • Sainte Julie Billiart
+DESCRIPTION:Saint Gautier - Abbé de Saint-Martin de Pontoise (+ 1099)\nhtt
+ ps://nominis.cef.fr/contenus/saint/938/Saint-Gautier.html\n\nSainte Julie 
+ Billiart - Fondatrice de l'Institut de Notre-Dame (+ 1816)\nhttps://nomini
+ s.cef.fr/contenus/saint/934/Sainte-Julie-Billiart.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0409-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Demetrius • Saint Maxime d'Alexandrie
+DESCRIPTION:Saint Demetrius - Martyr à Sirmium en Dalmatie (IVe siècle)\n
+ https://nominis.cef.fr/contenus/saint/10838/Saint-Demetrius.html\n\nSaint 
+ Maxime d'Alexandrie - Évêque d'Alexandrie (+ 282)\nhttps://nominis.cef.f
+ r/contenus/saint/9783/Saint-Maxime-d-Alexandrie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0410-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Fulbert
+DESCRIPTION:Saint Fulbert - Évêque de Chartres (+ 1028)\nhttps://nominis.
+ cef.fr/contenus/saint/948/Saint-Fulbert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0411-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Stanislas
+DESCRIPTION:Saint Stanislas - Évêque de Cracovie\, martyr (+ 1079)\nhttps
+ ://nominis.cef.fr/contenus/saint/957/Saint-Stanislas.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0412-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jules Ier
+DESCRIPTION:Saint Jules Ier - Pape (35e) de 337 à 352 (+ 352)\nhttps://nom
+ inis.cef.fr/contenus/saint/958/Saint-Jules-Ier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0413-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Ida de Louvain
+DESCRIPTION:Sainte Ida de Louvain - Femme du Comte de Boulogne (+ 1113)\nht
+ tps://nominis.cef.fr/contenus/saint/966/Sainte-Ida-de-Louvain.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0414-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Maxime
+DESCRIPTION:Saint Maxime - Martyr à Rome (+ 260)\nhttps://nominis.cef.fr/c
+ ontenus/saint/975/Saint-Maxime.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0415-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Patern de Vannes
+DESCRIPTION:Saint Patern de Vannes - évêque de Vannes (Ve siècle)\nhttps
+ ://nominis.cef.fr/contenus/saint/983/Saint-Patern-de-Vannes.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0416-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Benoît-Joseph Labre • Sainte Bernadette Soubirous
+DESCRIPTION:Saint Benoît-Joseph Labre - Pèlerin\, mendiant (+ 1783)\nhttp
+ s://nominis.cef.fr/contenus/saint/986/Saint-Beno%C3%AEt-Joseph-Labre.html\
+ n\nSainte Bernadette Soubirous - Jeune fille à laquelle la Vierge Marie a
+ pparut (+ 1879)\nhttps://nominis.cef.fr/contenus/saint/662/Sainte-Bernadet
+ te-Soubirous.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0417-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Kateri Tekakwitha
+DESCRIPTION:Sainte Kateri Tekakwitha - Autochtone du continent nord-améric
+ ain (+ 1680)\nhttps://nominis.cef.fr/contenus/saint/9934/Sainte-Kateri-Tek
+ akwitha.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0418-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Parfait de Cordoue
+DESCRIPTION:Saint Parfait de Cordoue - Prêtre et martyr à Cordoue (+ 850)
+ \nhttps://nominis.cef.fr/contenus/saint/6657/Saint-Parfait-de-Cordoue.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0419-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Mappalique
+DESCRIPTION:Saint Mappalique - Martyr à Carthage (+ 250)\nhttps://nominis.
+ cef.fr/contenus/saint/10830/Saint-Mappalique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0420-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Odette
+DESCRIPTION:Bienheureuse Odette - Moniale au Brabant (+ 1158)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1010/Bienheureuse-Odette.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0421-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Anselme de Cantorbéry
+DESCRIPTION:Saint Anselme de Cantorbéry - Archevêque\, docteur de l'Égli
+ se (+ 1109)\nhttps://nominis.cef.fr/contenus/saint/1013/Saint-Anselme-de-C
+ antorb%C3%A9ry.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0422-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Epipode
+DESCRIPTION:Saint Epipode - Martyr à Lyon avec son ami Alexandre (+ 177)\n
+ https://nominis.cef.fr/contenus/saint/1018/Saint-Epipode.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0423-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Georges
+DESCRIPTION:Saint Georges - Martyr (+ 303)\nhttps://nominis.cef.fr/contenus
+ /saint/1024/Saint-Georges.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0424-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Fidèle de Sigmaringen
+DESCRIPTION:Saint Fidèle de Sigmaringen - Capucin\, prêtre et martyr (+ 1
+ 622)\nhttps://nominis.cef.fr/contenus/saint/1028/Saint-Fid%C3%A8le-de-Sigm
+ aringen.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0425-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Marc
+DESCRIPTION:Saint Marc - Un des quatre évangélistes (Ier siècle)\nhttps:
+ //nominis.cef.fr/contenus/saint/1033/Saint-Marc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0426-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Alde
+DESCRIPTION:Bienheureuse Alde - Tertiaire des Humiliés (+ 1309)\nhttps://n
+ ominis.cef.fr/contenus/saint/1036/Bienheureuse-Alde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0427-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Amédée IX • Sainte Zita
+DESCRIPTION:Bienheureux Amédée IX - Duc de Savoie (+ 1472)\nhttps://nomin
+ is.cef.fr/contenus/saint/888/Bienheureux-Am%C3%A9d%C3%A9e-IX.html\n\nSaint
+ e Zita - Servante à Lucques (+ 1278)\nhttps://nominis.cef.fr/contenus/sai
+ nt/1045/Sainte-Zita.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0428-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pierre Marie Chanel • Sainte Valérie de Milan
+DESCRIPTION:Saint Pierre Marie Chanel - Prêtre mariste martyr en Océanie 
+ (+ 1841)\nhttps://nominis.cef.fr/contenus/saint/1051/Saint-Pierre-Marie-Ch
+ anel.html\n\nSainte Valérie de Milan - Martyre (+ 171)\nhttps://nominis.c
+ ef.fr/contenus/saint/1053/Sainte-Val%C3%A9rie-de-Milan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0429-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Catherine de Sienne
+DESCRIPTION:Sainte Catherine de Sienne - Religieuse dominicaine\, Docteur d
+ e l'Église (+ 1380)\nhttps://nominis.cef.fr/contenus/saint/1054/Sainte-Ca
+ therine-de-Sienne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0430-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pie V
+DESCRIPTION:Saint Pie V - Pape (226e) de 1566 à 1572 (+ 1572)\nhttps://nom
+ inis.cef.fr/contenus/saint/1064/Saint-Pie-V.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0501-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jérémie\, le prophète • Saint Joseph Artisan
+DESCRIPTION:Saint Jérémie\, le prophète - (VIe siècle av. J.-C.)\nhttps
+ ://nominis.cef.fr/contenus/saint/6760/Saint-J%C3%A9r%C3%A9mie--le-proph%C3
+ %A8te.html\n\nSaint Joseph Artisan - Epoux de la Vierge Marie (Ier siècle
+ )\nhttps://nominis.cef.fr/contenus/saint/2120/Saint-Joseph-Artisan.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0502-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Athanase d'Alexandrie • Saint Boris de Bulgarie
+DESCRIPTION:Saint Athanase d'Alexandrie - Patriarche d'Alexandrie\, Père d
+ e l'Église (+ 373)\nhttps://nominis.cef.fr/contenus/saint/1076/Saint-Atha
+ nase-d-Alexandrie.html\n\nSaint Boris de Bulgarie - Khan des Bulgares (+ 9
+ 07)\nhttps://nominis.cef.fr/contenus/saint/1078/Saint-Boris-de-Bulgarie.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0503-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jacques le Mineur • Saint Philippe
+DESCRIPTION:Saint Jacques le Mineur - Un des douze apôtres du Christ (Ier 
+ siècle)\nhttps://nominis.cef.fr/contenus/saint/1085/Saint-Jacques-le-Mine
+ ur.html\n\nSaint Philippe - Un des apôtres du Christ (Ier siècle)\nhttps
+ ://nominis.cef.fr/contenus/saint/1086/Saint-Philippe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0504-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Sylvain de Gaza
+DESCRIPTION:Saint Sylvain de Gaza - Évêque de Gaza\, martyr et ses 39 com
+ pagnons (+ 311)\nhttps://nominis.cef.fr/contenus/saint/1097/Saint-Sylvain-
+ de-Gaza.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0505-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Judith
+DESCRIPTION:Sainte Judith - Moniale (+ 1260)\nhttps://nominis.cef.fr/conten
+ us/saint/1101/Sainte-Judith.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0506-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jacques Chastan • Bienheureuse Prudence
+DESCRIPTION:Saint Jacques Chastan - Missionnaire en Corée (+ 1839)\nhttps:
+ //nominis.cef.fr/contenus/saint/9945/Saint-Jacques-Chastan.html\n\nBienheu
+ reuse Prudence - Religieuse augustine (+ 1492)\nhttps://nominis.cef.fr/con
+ tenus/saint/1108/Bienheureuse-Prudence.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0507-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Gisèle
+DESCRIPTION:Bienheureuse Gisèle - Epouse de saint Etienne de Hongrie et m
+ ère de saint Émeric (+ 1060)\nhttps://nominis.cef.fr/contenus/saint/1111
+ /Bienheureuse-Gis%C3%A8le.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0508-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Désiré
+DESCRIPTION:Saint Désiré - évêque de Bourges (+ 550)\nhttps://nominis.c
+ ef.fr/contenus/saint/1116/Saint-D%C3%A9sir%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0509-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pacôme le Grand
+DESCRIPTION:Saint Pacôme le Grand - Fondateur du cénobitisme chrétien (+
+  346)\nhttps://nominis.cef.fr/contenus/saint/1127/Saint-Pac%C3%B4me-le-Gra
+ nd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0510-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean d'Avila • Sainte Solange
+DESCRIPTION:Saint Jean d'Avila - Prêtre\, 34ème docteur de l'Église (+ 1
+ 569)\nhttps://nominis.cef.fr/contenus/saint/1125/Saint-Jean-d-Avila.html\n
+ \nSainte Solange - Martyre de la pureté (+ 880)\nhttps://nominis.cef.fr/c
+ ontenus/saint/1131/Sainte-Solange.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0511-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Estelle
+DESCRIPTION:Sainte Estelle - Vierge (IIIe siècle)\nhttps://nominis.cef.fr/
+ contenus/saint/1133/Sainte-Estelle.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0512-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Achille de Larissa
+DESCRIPTION:Saint Achille de Larissa - Évêque de Larissa en Grèce (+ 330
+ )\nhttps://nominis.cef.fr/contenus/saint/2131/Saint-Achille-de-Larissa.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0513-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Notre-Dame de Fatima -
+DESCRIPTION:Notre-Dame de Fatima -\nhttps://nominis.cef.fr/contenus/saint/2
+ 011/Notre-Dame-de-Fatima.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0514-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Matthias
+DESCRIPTION:Saint Matthias - Apôtre (Ier siècle)\nhttps://nominis.cef.fr/
+ contenus/saint/1154/Saint-Matthias.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0515-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Denise
+DESCRIPTION:Sainte Denise - Martyre en Turquie (+ v. 250)\nhttps://nominis.
+ cef.fr/contenus/saint/1159/Sainte-Denise.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0516-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Honoré
+DESCRIPTION:Saint Honoré - évêque d'Amiens (+ 600)\nhttps://nominis.cef.
+ fr/contenus/saint/1168/Saint-Honor%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0517-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pascal Baylon
+DESCRIPTION:Saint Pascal Baylon - Frère mineur en Espagne (+ 1592)\nhttps:
+ //nominis.cef.fr/contenus/saint/1175/Saint-Pascal-Baylon.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0518-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Eric de Suède
+DESCRIPTION:Saint Eric de Suède - Roi de Suède (+ 1160)\nhttps://nominis.
+ cef.fr/contenus/saint/1177/Saint-Eric-de-Su%C3%A8de.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0519-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Yves
+DESCRIPTION:Saint Yves - Yves Hélory\, prêtre et juge en Bretagne (+ 1303
+ )\nhttps://nominis.cef.fr/contenus/saint/1186/Saint-Yves.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0520-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Bernardin de Sienne
+DESCRIPTION:Saint Bernardin de Sienne - Frère mineur (+ 1444)\nhttps://nom
+ inis.cef.fr/contenus/saint/1151/Saint-Bernardin-de-Sienne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0521-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Constantin Ier le Grand
+DESCRIPTION:Saint Constantin Ier le Grand - Empereur romain (+ 337)\nhttps:
+ //nominis.cef.fr/contenus/saint/1190/Saint-Constantin-Ier-le-Grand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0522-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Émile • Sainte Rita (Marguerite) da Cascia
+DESCRIPTION:Saint Émile - Martyr à Carthage (+ v. 250)\nhttps://nominis.c
+ ef.fr/contenus/saint/2132/Saint-%C3%89mile.html\n\nSainte Rita (Marguerite
+ ) da Cascia - Veuve\, moniale (+ 1457)\nhttps://nominis.cef.fr/contenus/sa
+ int/1200/Sainte-Rita-%28Marguerite%29-da-Cascia.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0523-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Didier de Vienne
+DESCRIPTION:Saint Didier de Vienne - évêque de Vienne (+ v. 607)\nhttps:/
+ /nominis.cef.fr/contenus/saint/1204/Saint-Didier-de-Vienne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0524-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Donatien et Rogatien
+DESCRIPTION:Saints Donatien et Rogatien - Martyrs à Nantes (+ v. 304)\nhtt
+ ps://nominis.cef.fr/contenus/saint/1209/Saints-Donatien-et-Rogatien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0525-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Madeleine-Sophie Barat
+DESCRIPTION:Sainte Madeleine-Sophie Barat - Fondatrice de l'Institut des re
+ ligieuses du Sacré-Coeur (+ 1865)\nhttps://nominis.cef.fr/contenus/saint/
+ 1216/Sainte-Madeleine-Sophie-Barat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0526-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Bérenger • Saint Philippe Neri
+DESCRIPTION:Saint Bérenger - Moine de Saint-Papoul (+ 1093)\nhttps://nomin
+ is.cef.fr/contenus/saint/1221/Saint-B%C3%A9renger.html\n\nSaint Philippe N
+ eri - Fondateur de l'Oratoire (+ 1595)\nhttps://nominis.cef.fr/contenus/sa
+ int/1227/Saint-Philippe-Neri.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0527-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Augustin de Cantorbéry
+DESCRIPTION:Saint Augustin de Cantorbéry - évêque (+ 604)\nhttps://nomin
+ is.cef.fr/contenus/saint/1228/Saint-Augustin-de-Cantorb%C3%A9ry.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0528-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Germain de Paris
+DESCRIPTION:Saint Germain de Paris - Évêque (+ 576)\nhttps://nominis.cef.
+ fr/contenus/saint/1232/Saint-Germain-de-Paris.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0529-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Ursule Ledochowska
+DESCRIPTION:Sainte Ursule Ledochowska - Fondatrice des Ursulines du Coeur d
+ e Jésus (+ 1939)\nhttps://nominis.cef.fr/contenus/saint/7145/Sainte-Ursul
+ e-Ledochowska.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0530-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ferdinand III le Saint • Sainte Jeanne d'Arc
+DESCRIPTION:Saint Ferdinand III le Saint - Roi de Castille et de Léon (+ 1
+ 252)\nhttps://nominis.cef.fr/contenus/saint/1246/Saint-Ferdinand-III-le-Sa
+ int.html\n\nSainte Jeanne d'Arc -  'pucelle d'Orléans' (+ 1431)\nhttps://
+ nominis.cef.fr/contenus/saint/1137/Sainte-Jeanne-d-Arc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0531-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Visitation de la Vierge Marie
+DESCRIPTION:Visitation de la Vierge Marie - Fête\nhttps://nominis.cef.fr/c
+ ontenus/saint/1252/Visitation-de-la-Vierge-Marie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0601-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Justin
+DESCRIPTION:Saint Justin - Philosophe et martyr (+ 165)\nhttps://nominis.ce
+ f.fr/contenus/saint/1256/Saint-Justin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0602-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Blandine et Pothin
+DESCRIPTION:Saints Blandine et Pothin -  et leurs 46 compagnons\, martyrs 
+ à Lyon (+ 177)\nhttps://nominis.cef.fr/contenus/saint/1259/Saints-Blandin
+ e-et-Pothin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0603-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Kevin • Saints Martyrs de l'Ouganda
+DESCRIPTION:Saint Kevin - Abbé de Glendalough (+ 618)\nhttps://nominis.cef
+ .fr/contenus/saint/1266/Saint-Kevin.html\n\nSaints Martyrs de l'Ouganda - 
+ Charles Lwanga et ses 21 compagnons (+ 1886)\nhttps://nominis.cef.fr/conte
+ nus/saint/1267/Saints-Martyrs-de-l-Ouganda.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0604-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Clotilde • Sainte Marthe
+DESCRIPTION:Sainte Clotilde - Reine des Francs (+ 545)\nhttps://nominis.cef
+ .fr/contenus/saint/1268/Sainte-Clotilde.html\n\nSainte Marthe - Disciple d
+ u Christ\, soeur de Lazare (Ier siècle)\nhttps://nominis.cef.fr/contenus/
+ saint/1589/Sainte-Marthe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0605-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Boniface
+DESCRIPTION:Saint Boniface - Archevêque de Mayence\, martyr (+ 754)\nhttps
+ ://nominis.cef.fr/contenus/saint/1274/Saint-Boniface.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0606-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Claude • Saint Norbert de Xanten
+DESCRIPTION:Saint Claude - Évêque du Jura (+ 699)\nhttps://nominis.cef.fr
+ /contenus/saint/1281/Saint-Claude.html\n\nSaint Norbert de Xanten - Archev
+ êque de Magdebourg (+ 1134)\nhttps://nominis.cef.fr/contenus/saint/1283/S
+ aint-Norbert-de-Xanten.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0607-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gilbert
+DESCRIPTION:Saint Gilbert - Religieux prémontré (+ 1152)\nhttps://nominis
+ .cef.fr/contenus/saint/630/Saint-Gilbert.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0608-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Médard de Noyon
+DESCRIPTION:Saint Médard de Noyon - évêque (+ 560)\nhttps://nominis.cef.
+ fr/contenus/saint/1293/Saint-M%C3%A9dard-de-Noyon.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0609-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ephrem le Syrien
+DESCRIPTION:Saint Ephrem le Syrien - Diacre et Docteur de l'Église (+ 373)
+ \nhttps://nominis.cef.fr/contenus/saint/1298/Saint-Ephrem-le-Syrien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0610-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Landry
+DESCRIPTION:Saint Landry - Évêque de Paris (+ 656)\nhttps://nominis.cef.f
+ r/contenus/saint/1302/Saint-Landry.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0611-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Barnabé
+DESCRIPTION:Saint Barnabé - Disciple et compagnon de saint Paul\, apôtre 
+ (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/1305/Saint-Barnab%C3%
+ A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0612-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Guy Vignotelli
+DESCRIPTION:Bienheureux Guy Vignotelli - (Guy de Cortone)\, frère mineur (
+ + 1245)\nhttps://nominis.cef.fr/contenus/saint/1308/Bienheureux-Guy-Vignot
+ elli.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0613-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Antoine de Padoue
+DESCRIPTION:Saint Antoine de Padoue - Frère mineur\, docteur de l'Église 
+ (+ 1231)\nhttps://nominis.cef.fr/contenus/saint/1313/Saint-Antoine-de-Pado
+ ue.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0614-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Elisée
+DESCRIPTION:Saint Elisée - Disciple et successeur d'Elie (IXe siècle av. 
+ J.-C.)\nhttps://nominis.cef.fr/contenus/saint/1318/Saint-Elis%C3%A9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0615-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Germaine Cousin
+DESCRIPTION:Sainte Germaine Cousin - Laïque (+ 1601)\nhttps://nominis.cef.
+ fr/contenus/saint/1324/Sainte-Germaine-Cousin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0616-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean François Régis
+DESCRIPTION:Saint Jean François Régis - Jésuite - apôtre du Vivarais (+
+  1640)\nhttps://nominis.cef.fr/contenus/saint/9847/Saint-Jean-Fran%C3%A7oi
+ s-R%C3%A9gis.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0617-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Hervé
+DESCRIPTION:Saint Hervé - Abbé en Bretagne (+ 568)\nhttps://nominis.cef.f
+ r/contenus/saint/1336/Saint-Herv%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0618-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Léonce de Tripoli
+DESCRIPTION:Saint Léonce de Tripoli - Martyr à Tripoli (IVe siècle)\nhtt
+ ps://nominis.cef.fr/contenus/saint/1342/Saint-L%C3%A9once-de-Tripoli.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0619-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jude • Saint Romuald
+DESCRIPTION:Saint Jude - "Thaddée"\, apôtre (Ier siècle)\nhttps://nomini
+ s.cef.fr/contenus/saint/2092/Saint-Jude.html\n\nSaint Romuald - Fondateur 
+ des Camaldules (+ 1027)\nhttps://nominis.cef.fr/contenus/saint/1352/Saint-
+ Romuald.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0620-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Silvère
+DESCRIPTION:Saint Silvère - Pape (58e) de 536 à 537 et martyr (+ 537)\nht
+ tps://nominis.cef.fr/contenus/saint/1357/Saint-Silv%C3%A8re.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0621-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Louis de Gonzague • Saint Raoul
+DESCRIPTION:Saint Louis de Gonzague - Jésuite (+ 1591)\nhttps://nominis.ce
+ f.fr/contenus/saint/1363/Saint-Louis-de-Gonzague.html\n\nSaint Raoul - Arc
+ hevêque de Bourges (+ 866)\nhttps://nominis.cef.fr/contenus/saint/7376/Sa
+ int-Raoul.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0622-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Auban • Saint Thomas More
+DESCRIPTION:Saint Auban - Martyr (+ v. 304)\nhttps://nominis.cef.fr/contenu
+ s/saint/1366/Saint-Auban.html\n\nSaint Thomas More - Chancelier du roi Hen
+ ri VIII d'Angleterre\, martyr (+ 1535)\nhttps://nominis.cef.fr/contenus/sa
+ int/1372/Saint-Thomas-More.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0623-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Etheldrede • Sainte Paule
+DESCRIPTION:Sainte Etheldrede - Abbesse\, fondatrice d'Ely (+ 679)\nhttps:/
+ /nominis.cef.fr/contenus/saint/1373/Sainte-Etheldrede.html\n\nSainte Paule
+  - Martyre à Rome (IIIe siècle)\nhttps://nominis.cef.fr/contenus/saint/7
+ 373/Sainte-Paule.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0624-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean Baptiste
+DESCRIPTION:Saint Jean Baptiste - Nativité de saint Jean Baptiste (Ier si
+ ècle)\nhttps://nominis.cef.fr/contenus/saint/1380/Saint-Jean-Baptiste.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0625-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Prosper d'Aquitaine
+DESCRIPTION:Saint Prosper d'Aquitaine - Théologien laïc (+ v. 460)\nhttps
+ ://nominis.cef.fr/contenus/saint/1390/Saint-Prosper-d-Aquitaine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0626-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Anthelme de Chignin
+DESCRIPTION:Saint Anthelme de Chignin - Évêque de Belley (+ 1178)\nhttps:
+ //nominis.cef.fr/contenus/saint/1392/Saint-Anthelme-de-Chignin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0627-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Cyrille d'Alexandrie • Saint Ferdinand d'Aragon
+DESCRIPTION:Saint Cyrille d'Alexandrie - Père et Docteur de l'Église (+ 4
+ 44)\nhttps://nominis.cef.fr/contenus/saint/1398/Saint-Cyrille-d-Alexandrie
+ .html\n\nSaint Ferdinand d'Aragon - évêque (XIIIe siècle)\nhttps://nomi
+ nis.cef.fr/contenus/saint/9996/Saint-Ferdinand-d-Aragon.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0628-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Irénée de Lyon
+DESCRIPTION:Saint Irénée de Lyon - évêque et martyr\, docteur de l'Egli
+ se (+ v. 201)\nhttps://nominis.cef.fr/contenus/saint/1403/Saint-Ir%C3%A9n%
+ C3%A9e-de-Lyon.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0629-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Paul • Saint Pierre
+DESCRIPTION:Saint Paul - Saint Apôtre (Ier siècle)\nhttps://nominis.cef.f
+ r/contenus/saint/2116/Saint-Paul.html\n\nSaint Pierre - Pape (1er) - apôt
+ re (+ 64)\nhttps://nominis.cef.fr/contenus/saint/899/Saint-Pierre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0630-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Martial de Limoges
+DESCRIPTION:Saint Martial de Limoges - évêque de Limoges (IIIe siècle)\n
+ https://nominis.cef.fr/contenus/saint/1412/Saint-Martial-de-Limoges.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0701-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Olivier Plunkett • Saint Thierry
+DESCRIPTION:Saint Olivier Plunkett - évêque d'Armagh\, martyr (+ 1681)\nh
+ ttps://nominis.cef.fr/contenus/saint/1600/Saint-Olivier-Plunkett.html\n\nS
+ aint Thierry - Abbé près de Reims (+ 533)\nhttps://nominis.cef.fr/conten
+ us/saint/1422/Saint-Thierry.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0702-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Eugénie Joubert • Saint Martinien
+DESCRIPTION:Bienheureuse Eugénie Joubert - Religieuse (+ 1904)\nhttps://no
+ minis.cef.fr/contenus/saint/9949/Bienheureuse-Eug%C3%A9nie-Joubert.html\n\
+ nSaint Martinien - Martyrisé au Ier siècle (Ier siècle)\nhttps://nomini
+ s.cef.fr/contenus/saint/1426/Saint-Martinien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0703-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Thomas
+DESCRIPTION:Saint Thomas - Apôtre (Ier siècle)\nhttps://nominis.cef.fr/co
+ ntenus/saint/296/Saint-Thomas.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0704-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Elisabeth du Portugal
+DESCRIPTION:Sainte Elisabeth du Portugal - Reine (+ 1336)\nhttps://nominis.
+ cef.fr/contenus/saint/1599/Sainte-Elisabeth-du-Portugal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0705-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Antoine-Marie Zaccaria
+DESCRIPTION:Saint Antoine-Marie Zaccaria - Fondateur des Barnabites (+ 1539
+ )\nhttps://nominis.cef.fr/contenus/saint/1443/Saint-Antoine-Marie-Zaccaria
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0706-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Maria Goretti
+DESCRIPTION:Sainte Maria Goretti - Martyre à 12 ans (+ 1902)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1454/Sainte-Maria-Goretti.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0707-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ralph Milner • Saint Roger Dickenson
+DESCRIPTION:Saint Ralph Milner - Martyr (+ 1591)\nhttps://nominis.cef.fr/co
+ ntenus/saint/7505/Saint-Ralph-Milner.html\n\nSaint Roger Dickenson - Et se
+ s compagnons\, martyrs en Angleterre (+ 1591)\nhttps://nominis.cef.fr/cont
+ enus/saint/1463/Saint-Roger-Dickenson.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0708-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Aquila et Priscille
+DESCRIPTION:Saints Aquila et Priscille - Convertis par Saint Paul à Corint
+ he (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/1465/Saints-Aquila
+ -et-Priscille.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0709-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Augustin ZhaoRong et ses compagnons • Sainte Marie-Hermine
+  de Jésus
+DESCRIPTION:Saints Augustin ZhaoRong et ses compagnons - Martyrs en Chine\n
+ https://nominis.cef.fr/contenus/saint/11922/Saints-Augustin-ZhaoRong-et-se
+ s-compagnons.html\n\nSainte Marie-Hermine de Jésus - Martyre (+ 1900)\nht
+ tps://nominis.cef.fr/contenus/saint/9910/Sainte-Marie-Hermine-de-J%C3%A9su
+ s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0710-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ulric
+DESCRIPTION:Saint Ulric - Bénédictin à Zell\, près de Fribourg-en-Brisg
+ au (+ 1093)\nhttps://nominis.cef.fr/contenus/saint/1481/Saint-Ulric.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0711-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Benoît
+DESCRIPTION:Saint Benoît - Benoît de Nursie\, patriarche des moines d'Occ
+ ident (+ v. 547)\nhttps://nominis.cef.fr/contenus/saint/1483/Saint-Beno%C3
+ %AEt.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0712-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Nabor et Félix
+DESCRIPTION:Saints Nabor et Félix - Martyrs à Lodi\, en Lombardie (+ v. 3
+ 04)\nhttps://nominis.cef.fr/contenus/saint/1492/Saints-Nabor-et-F%C3%A9lix
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0713-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Henri II
+DESCRIPTION:Saint Henri II - Empereur germanique (+ 1024)\nhttps://nominis.
+ cef.fr/contenus/saint/1497/Saint-Henri-II.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0714-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Camille de Lellis
+DESCRIPTION:Saint Camille de Lellis - Fondateur des Clercs réguliers pour 
+ le service des malades (+ 1614)\nhttps://nominis.cef.fr/contenus/saint/150
+ 4/Saint-Camille-de-Lellis.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0715-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Bonaventure
+DESCRIPTION:Saint Bonaventure - Évêque\, Docteur de l'Église (+ 1274)\nh
+ ttps://nominis.cef.fr/contenus/saint/1513/Saint-Bonaventure.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0716-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Notre-Dame du mont Carmel -
+DESCRIPTION:Notre-Dame du mont Carmel -\nhttps://nominis.cef.fr/contenus/sa
+ int/1520/Notre-Dame-du-mont-Carmel.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0717-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Charlotte
+DESCRIPTION:Sainte Charlotte - Et ses compagnes\, Carmélites de Compiègne
+ \, martyres (+ 1794)\nhttps://nominis.cef.fr/contenus/saint/1522/Sainte-Ch
+ arlotte.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0718-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Frédéric
+DESCRIPTION:Saint Frédéric - Évêque et martyr à Utrecht (+ 838)\nhttps
+ ://nominis.cef.fr/contenus/saint/1531/Saint-Fr%C3%A9d%C3%A9ric.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0719-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Macrine la Jeune
+DESCRIPTION:Sainte Macrine la Jeune - Aînée d'une famille de saints (+ 37
+ 9)\nhttps://nominis.cef.fr/contenus/saint/7643/Sainte-Macrine-la-Jeune.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0720-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Aurèle
+DESCRIPTION:Saint Aurèle - Évêque de Carthage (+ 430)\nhttps://nominis.c
+ ef.fr/contenus/saint/7642/Saint-Aur%C3%A8le.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0721-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Laurent de Brindisi • Saint Victor de Marseille
+DESCRIPTION:Saint Laurent de Brindisi - Capucin et Docteur de l'Église (+ 
+ 1619)\nhttps://nominis.cef.fr/contenus/saint/1546/Saint-Laurent-de-Brindis
+ i.html\n\nSaint Victor de Marseille - Martyr à Marseille (+ v. 290)\nhttp
+ s://nominis.cef.fr/contenus/saint/1548/Saint-Victor-de-Marseille.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0722-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marie-Madeleine
+DESCRIPTION:Sainte Marie-Madeleine - Pénitente\, disciple du Christ (Ier s
+ iècle)\nhttps://nominis.cef.fr/contenus/saint/1549/Sainte-Marie-Madeleine
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0723-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Brigitte de Suède
+DESCRIPTION:Sainte Brigitte de Suède - Veuve\, fondatrice de l'ordre du Sa
+ int-Sauveur (+ 1373)\nhttps://nominis.cef.fr/contenus/saint/1552/Sainte-Br
+ igitte-de-Su%C3%A8de.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0724-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Christine l'Admirable
+DESCRIPTION:Sainte Christine l'Admirable - Mystique à Saint-Trond (+ 1224)
+ \nhttps://nominis.cef.fr/contenus/saint/1557/Sainte-Christine-l-Admirable.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0725-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Christophe • Saint Jacques le Majeur
+DESCRIPTION:Saint Christophe - Martyr en Lycie (IIIe siècle)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1563/Saint-Christophe.html\n\nSaint Jacques le M
+ ajeur - Un des apôtres du Christ\, frère de saint Jean l'évangéliste (
+ + 44)\nhttps://nominis.cef.fr/contenus/saint/1094/Saint-Jacques-le-Majeur.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0726-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Anne et Joachim
+DESCRIPTION:Saints Anne et Joachim - Mère et père de la Vierge Marie (Ier
+  siècle)\nhttps://nominis.cef.fr/contenus/saint/1564/Saints-Anne-et-Joach
+ im.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0727-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Nathalie et  ses compagnons
+DESCRIPTION:Sainte Nathalie et  ses compagnons - Martyrs à Cordoue (+ 852)
+ \nhttps://nominis.cef.fr/contenus/saint/2137/Sainte-Nathalie-et--ses-compa
+ gnons.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0728-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Samson
+DESCRIPTION:Saint Samson - évêque de Dol (+ v. 565)\nhttps://nominis.cef.
+ fr/contenus/saint/1584/Saint-Samson.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0729-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marthe • Saints Marthe\, Marie et Lazare
+DESCRIPTION:Sainte Marthe - Disciple du Christ\, soeur de Lazare (Ier sièc
+ le)\nhttps://nominis.cef.fr/contenus/saint/1589/Sainte-Marthe.html\n\nSain
+ ts Marthe\, Marie et Lazare - Famille de Béthanie (Ier siècle)\nhttps://
+ nominis.cef.fr/contenus/saint/13504/Saints-Marthe--Marie-et-Lazare.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0730-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Juliette • Saint Pierre Chrysologue
+DESCRIPTION:Sainte Juliette - Martyre en Cappadoce (+ 303)\nhttps://nominis
+ .cef.fr/contenus/saint/1593/Sainte-Juliette.html\n\nSaint Pierre Chrysolog
+ ue - Évêque de Ravenne\, docteur de l'Église (+ 451)\nhttps://nominis.c
+ ef.fr/contenus/saint/211/Saint-Pierre-Chrysologue.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0731-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ignace de Loyola
+DESCRIPTION:Saint Ignace de Loyola - Fondateur de la Compagnie de Jésus (+
+  1556)\nhttps://nominis.cef.fr/contenus/saint/1596/Saint-Ignace-de-Loyola.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0801-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Alphonse-Marie de Liguori
+DESCRIPTION:Saint Alphonse-Marie de Liguori - Docteur de l'Église (+ 1787)
+ \nhttps://nominis.cef.fr/contenus/saint/1601/Saint-Alphonse-Marie-de-Liguo
+ ri.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0802-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pierre-Julien Eymard
+DESCRIPTION:Saint Pierre-Julien Eymard - Fondateur des pères du Saint-Sacr
+ ement (+ 1868)\nhttps://nominis.cef.fr/contenus/saint/1610/Saint-Pierre-Ju
+ lien-Eymard.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0803-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Salomé la Myrophore
+DESCRIPTION:Sainte Salomé la Myrophore - épouse de Zébédée et mère de
+ s apôtres Jacques et Jean (Ier siècle)\nhttps://nominis.cef.fr/contenus/
+ saint/2061/Sainte-Salom%C3%A9-la-Myrophore.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0804-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean-Marie Vianney
+DESCRIPTION:Saint Jean-Marie Vianney - Curé d'Ars (+ 1859)\nhttps://nomini
+ s.cef.fr/contenus/saint/1621/Saint-Jean-Marie-Vianney.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0805-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Abel de Lobbes • Dédicace de Sainte-Marie-Majeure
+DESCRIPTION:Saint Abel de Lobbes - Bénédictin\, archevêque de Reims (+ 7
+ 70)\nhttps://nominis.cef.fr/contenus/saint/2138/Saint-Abel-de-Lobbes.html\
+ n\nDédicace de Sainte-Marie-Majeure - Basilique romaine\nhttps://nominis.
+ cef.fr/contenus/saint/1623/D%C3%A9dicace-de-Sainte-Marie-Majeure.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0806-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Transfiguration du Seigneur
+DESCRIPTION:Transfiguration du Seigneur - (Ier siècle)\nhttps://nominis.ce
+ f.fr/contenus/saint/1633/Transfiguration-du-Seigneur.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0807-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gaétan de Thiene
+DESCRIPTION:Saint Gaétan de Thiene - Fondateur de l'ordre des Théatins (+
+  1547)\nhttps://nominis.cef.fr/contenus/saint/1635/Saint-Ga%C3%A9tan-de-Th
+ iene.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0808-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Dominique
+DESCRIPTION:Saint Dominique - Fondateur de l'Ordre des Frères prêcheurs (
+ + 1221)\nhttps://nominis.cef.fr/contenus/saint/1619/Saint-Dominique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0809-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Thérèse Bénédicte de La Croix
+DESCRIPTION:Sainte Thérèse Bénédicte de La Croix - Carmélite - Martyre
+  en Pologne (+ 1942)\nhttps://nominis.cef.fr/contenus/saint/7859/Sainte-Th
+ %C3%A9r%C3%A8se-B%C3%A9n%C3%A9dicte-de-La-Croix.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0810-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Laurent de Rome
+DESCRIPTION:Saint Laurent de Rome - Diacre et martyr à Rome (+ 258)\nhttps
+ ://nominis.cef.fr/contenus/saint/1652/Saint-Laurent-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0811-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Claire d'Assise • Sainte Suzanne
+DESCRIPTION:Sainte Claire d'Assise - Fondatrice des Clarisses (+ 1253)\nhtt
+ ps://nominis.cef.fr/contenus/saint/1654/Sainte-Claire-d-Assise.html\n\nSai
+ nte Suzanne - Martyre romaine\nhttps://nominis.cef.fr/contenus/saint/9872/
+ Sainte-Suzanne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0812-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Jeanne-Françoise de Chantal
+DESCRIPTION:Sainte Jeanne-Françoise de Chantal - Fondatrice de la Visitati
+ on (+ 1641)\nhttps://nominis.cef.fr/contenus/saint/249/Sainte-Jeanne-Fran%
+ C3%A7oise-de-Chantal.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0813-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Hippolyte de Rome
+DESCRIPTION:Saint Hippolyte de Rome - Martyr (+ v. 235)\nhttps://nominis.ce
+ f.fr/contenus/saint/1661/Saint-Hippolyte-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0814-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Maximilien Kolbe
+DESCRIPTION:Saint Maximilien Kolbe - Frère mineur\, martyr\, fondateur de 
+ la Milice de l'Immaculée (+ 1941)\nhttps://nominis.cef.fr/contenus/saint/
+ 1669/Saint-Maximilien-Kolbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0815-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Assomption de la Vierge Marie
+DESCRIPTION:Assomption de la Vierge Marie - Mère de Jésus-Christ (Ier si
+ ècle)\nhttps://nominis.cef.fr/contenus/saint/980/Assomption-de-la-Vierge-
+ Marie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0816-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Armel • Saint Etienne de Hongrie
+DESCRIPTION:Saint Armel - Fondateur de l'abbaye de Plouarzel en Bretagne (+
+  570)\nhttps://nominis.cef.fr/contenus/saint/2114/Saint-Armel.html\n\nSain
+ t Etienne de Hongrie - Roi (+ 1038)\nhttps://nominis.cef.fr/contenus/saint
+ /7905/Saint-Etienne-de-Hongrie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0817-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Claire de Montefalco
+DESCRIPTION:Sainte Claire de Montefalco - Abbesse (+ 1308)\nhttps://nominis
+ .cef.fr/contenus/saint/1680/Sainte-Claire-de-Montefalco.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0818-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Hélène
+DESCRIPTION:Sainte Hélène - Impératrice byzantine (+ 329)\nhttps://nomin
+ is.cef.fr/contenus/saint/1687/Sainte-H%C3%A9l%C3%A8ne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0819-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean Eudes
+DESCRIPTION:Saint Jean Eudes - Fondateur des Eudistes et de l'Institut Notr
+ e-Dame de Charité (+ 1680)\nhttps://nominis.cef.fr/contenus/saint/1696/Sa
+ int-Jean-Eudes.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0820-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Bernard de Clairvaux
+DESCRIPTION:Saint Bernard de Clairvaux - Abbé\, Docteur de l'Église (+ 11
+ 53)\nhttps://nominis.cef.fr/contenus/saint/1702/Saint-Bernard-de-Clairvaux
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0821-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Christophe • Saint Pie X
+DESCRIPTION:Saint Christophe - Martyr en Lycie (IIIe siècle)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1563/Saint-Christophe.html\n\nSaint Pie X - Pape
+  (257e) de 1903 à 1914 (+ 1914)\nhttps://nominis.cef.fr/contenus/saint/22
+ 0/Saint-Pie-X.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0822-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Mémoire de la Vierge Marie Reine
+DESCRIPTION:Mémoire de la Vierge Marie Reine - (Ier siècle)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1720/M%C3%A9moire-de-la-Vierge-Marie-Reine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0823-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Rose de Lima
+DESCRIPTION:Sainte Rose de Lima - Vierge (+ 1617)\nhttps://nominis.cef.fr/c
+ ontenus/saint/1723/Sainte-Rose-de-Lima.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0824-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Barthélemy
+DESCRIPTION:Saint Barthélemy - Apôtre (Ier siècle)\nhttps://nominis.cef.
+ fr/contenus/saint/1725/Saint-Barth%C3%A9lemy.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0825-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Louis
+DESCRIPTION:Saint Louis - Louis IX\, roi de France (+ 1270)\nhttps://nomini
+ s.cef.fr/contenus/saint/1735/Saint-Louis.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0826-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Césaire d'Arles
+DESCRIPTION:Saint Césaire d'Arles - évêque d'Arles\, Père de l'Église 
+ (+ 542)\nhttps://nominis.cef.fr/contenus/saint/1740/Saint-C%C3%A9saire-d-A
+ rles.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0827-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Monique
+DESCRIPTION:Sainte Monique - Mère de saint Augustin d'Hippone (+ 387)\nhtt
+ ps://nominis.cef.fr/contenus/saint/1095/Sainte-Monique.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0828-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Augustin
+DESCRIPTION:Saint Augustin - évêque d'Hippone\, Docteur de l'Église (+ 4
+ 30)\nhttps://nominis.cef.fr/contenus/saint/1751/Saint-Augustin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0829-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Martyre de saint Jean Baptiste • Sainte Sabine
+DESCRIPTION:Martyre de saint Jean Baptiste - (Ier siècle)\nhttps://nominis
+ .cef.fr/contenus/saint/1757/Martyre-de-saint-Jean-Baptiste.html\n\nSainte 
+ Sabine - Martyre à Rome (+ 126)\nhttps://nominis.cef.fr/contenus/saint/17
+ 61/Sainte-Sabine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0830-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Fiacre
+DESCRIPTION:Saint Fiacre - Ermite près de Meaux (+ 670)\nhttps://nominis.c
+ ef.fr/contenus/saint/1763/Saint-Fiacre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0831-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Aristide
+DESCRIPTION:Saint Aristide - Philosophe à Athènes (IIe siècle)\nhttps://
+ nominis.cef.fr/contenus/saint/1766/Saint-Aristide.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0901-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gilles
+DESCRIPTION:Saint Gilles - Ermite près de Narbonne\, en Septimanie (+ 720)
+ \nhttps://nominis.cef.fr/contenus/saint/1774/Saint-Gilles.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0902-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Ingrid de Skänninge
+DESCRIPTION:Sainte Ingrid de Skänninge - Princesse suédoise (+ 1282)\nhtt
+ ps://nominis.cef.fr/contenus/saint/1782/Sainte-Ingrid-de-Sk%C3%A4nninge.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0903-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Grégoire le Grand
+DESCRIPTION:Saint Grégoire le Grand - Pape (64e) de 590 à 604 - Docteur d
+ e l'Église (+ 604)\nhttps://nominis.cef.fr/contenus/saint/1787/Saint-Gr%C
+ 3%A9goire-le-Grand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0904-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Rosalie
+DESCRIPTION:Sainte Rosalie - Vierge à Palerme\, en Sicile (+ 1170)\nhttps:
+ //nominis.cef.fr/contenus/saint/1799/Sainte-Rosalie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0905-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Raïssa
+DESCRIPTION:Sainte Raïssa - Martyre à Alexandrie (IVe siècle)\nhttps://n
+ ominis.cef.fr/contenus/saint/1803/Sainte-Ra%C3%AFssa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0906-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Bertrand de Garrigues
+DESCRIPTION:Bienheureux Bertrand de Garrigues - Compagnon de saint Dominiqu
+ e (+ v. 1230)\nhttps://nominis.cef.fr/contenus/saint/2115/Bienheureux-Bert
+ rand-de-Garrigues.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0907-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Reine
+DESCRIPTION:Sainte Reine - Martyre à Alésia\, en Côte d'Or (+ 252)\nhttp
+ s://nominis.cef.fr/contenus/saint/1807/Sainte-Reine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0908-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Nativité de la Vierge Marie -
+DESCRIPTION:Nativité de la Vierge Marie -\nhttps://nominis.cef.fr/contenus
+ /saint/1816/Nativit%C3%A9-de-la-Vierge-Marie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0909-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Alain de la Roche • Saint Pierre Claver
+DESCRIPTION:Bienheureux Alain de la Roche - Dominicain (+ 1475)\nhttps://no
+ minis.cef.fr/contenus/saint/1818/Bienheureux-Alain-de-la-Roche.html\n\nSai
+ nt Pierre Claver - Jésuite (+ 1654)\nhttps://nominis.cef.fr/contenus/sain
+ t/8155/Saint-Pierre-Claver.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0910-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Inès
+DESCRIPTION:Bienheureuse Inès - Martyre à Nagasaki (+ 1622)\nhttps://nomi
+ nis.cef.fr/contenus/saint/1828/Bienheureuse-In%C3%A8s.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0911-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Théodora
+DESCRIPTION:Sainte Théodora - (+ 491)\nhttps://nominis.cef.fr/contenus/sai
+ nt/8188/Sainte-Th%C3%A9odora.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0912-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Le saint nom de Marie
+DESCRIPTION:Le saint nom de Marie - Mémoire\nhttps://nominis.cef.fr/conten
+ us/saint/10396/Le-saint-nom-de-Marie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0913-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean Chrysostome
+DESCRIPTION:Saint Jean Chrysostome - Évêque de Constantinople\, Docteur d
+ e l'Église (+ 407)\nhttps://nominis.cef.fr/contenus/saint/5401/Saint-Jean
+ -Chrysostome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0914-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Exaltation de la sainte Croix
+DESCRIPTION:Exaltation de la sainte Croix - Fête de la Croix glorieuse\nht
+ tps://nominis.cef.fr/contenus/saint/1850/Exaltation-de-la-sainte-Croix.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0915-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Notre-Dame des sept Douleurs
+DESCRIPTION:Notre-Dame des sept Douleurs - Mémoire liturgique\nhttps://nom
+ inis.cef.fr/contenus/saint/1857/Notre-Dame-des-sept-Douleurs.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0916-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Corneille et Cyprien • Sainte Edith de Barking
+DESCRIPTION:Saints Corneille et Cyprien - Mémoire liturgique (IIIe siècle
+ )\nhttps://nominis.cef.fr/contenus/saint/10415/Saints-Corneille-et-Cyprien
+ .html\n\nSainte Edith de Barking - Abbesse de Wilton (+ 984)\nhttps://nomi
+ nis.cef.fr/contenus/saint/37/Sainte-Edith-de-Barking.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0917-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Hildegarde de Bingen • Saint Robert Bellarmin
+DESCRIPTION:Sainte Hildegarde de Bingen - Abbesse bénédictine\, 35e docte
+ ur de l'Église (+ 1179)\nhttps://nominis.cef.fr/contenus/saint/1865/Saint
+ e-Hildegarde-de-Bingen.html\n\nSaint Robert Bellarmin - Jésuite\, Docteur
+  de l'Église (+ 1621)\nhttps://nominis.cef.fr/contenus/saint/1148/Saint-R
+ obert-Bellarmin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0918-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Joseph de Cupertino
+DESCRIPTION:Saint Joseph de Cupertino - Frère mineur (+ 1663)\nhttps://nom
+ inis.cef.fr/contenus/saint/1874/Saint-Joseph-de-Cupertino.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0919-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Janvier de Naples • Sainte Marie-Emilie de Rodat
+DESCRIPTION:Saint Janvier de Naples - Évêque et martyr à Naples (+ 305)\
+ nhttps://nominis.cef.fr/contenus/saint/1881/Saint-Janvier-de-Naples.html\n
+ \nSainte Marie-Emilie de Rodat - Fondatrice des Soeurs de la Sainte-Famill
+ e (+ 1852)\nhttps://nominis.cef.fr/contenus/saint/1880/Sainte-Marie-Emilie
+ -de-Rodat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0920-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint André Kim Taegon
+DESCRIPTION:Saint André Kim Taegon - Et ses compagnons\, martyrs en Corée
+ \, 1839-1867 (XIXe siècle)\nhttps://nominis.cef.fr/contenus/saint/1884/Sa
+ int-Andr%C3%A9-Kim-Taegon.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0921-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Matthieu
+DESCRIPTION:Saint Matthieu - Un des apôtres du Christ\, martyr (Ier siècl
+ e)\nhttps://nominis.cef.fr/contenus/saint/1066/Saint-Matthieu.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0922-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Maurice • Saint Silvain
+DESCRIPTION:Saint Maurice -  et ses compagnons de la légion thébéenne (+
+  v. 287)\nhttps://nominis.cef.fr/contenus/saint/1897/Saint-Maurice.html\n\
+ nSaint Silvain - Ermite du Ve siècle (Ve siècle)\nhttps://nominis.cef.fr
+ /contenus/saint/9958/Saint-Silvain.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0923-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Constant • Saint Pio de Pietrelcina
+DESCRIPTION:Saint Constant - Sacristain à Ancône\, en Italie (Ve siècle)
+ \nhttps://nominis.cef.fr/contenus/saint/619/Saint-Constant.html\n\nSaint P
+ io de Pietrelcina - Prêtre capucin (+ 1968)\nhttps://nominis.cef.fr/conte
+ nus/saint/9953/Saint-Pio-de-Pietrelcina.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0924-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Silouane
+DESCRIPTION:Saint Silouane - L'athonite (+ 1938)\nhttps://nominis.cef.fr/co
+ ntenus/saint/8333/Saint-Silouane.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0925-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Firmin
+DESCRIPTION:Saint Firmin - évêque d'Amiens (IVe siècle)\nhttps://nominis
+ .cef.fr/contenus/saint/1914/Saint-Firmin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0926-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Côme et Damien
+DESCRIPTION:Saints Côme et Damien - Martyrs à Cyr (IIIe siècle)\nhttps:/
+ /nominis.cef.fr/contenus/saint/1921/Saints-C%C3%B4me-et-Damien.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0927-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Vincent de Paul
+DESCRIPTION:Saint Vincent de Paul - Fondateur de la congrégation de la Mis
+ sion et des Filles de la Charité (+ 1660)\nhttps://nominis.cef.fr/contenu
+ s/saint/1927/Saint-Vincent-de-Paul.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0928-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Laurent Ruiz et 15 compagnons • Saint Venceslas
+DESCRIPTION:Saints Laurent Ruiz et 15 compagnons - Martyrs à Nagasaki au J
+ apon (+ v. 1635)\nhttps://nominis.cef.fr/contenus/saint/1691/Saints-Lauren
+ t-Ruiz-et-15-compagnons.html\n\nSaint Venceslas - Duc de Bohême et martyr
+  (+ 935)\nhttps://nominis.cef.fr/contenus/saint/1934/Saint-Venceslas.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0929-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gabriel • Saint Michel • Saint Raphaël
+DESCRIPTION:Saint Gabriel - Saint Archange\nhttps://nominis.cef.fr/contenus
+ /saint/977/Saint-Gabriel.html\n\nSaint Michel - Saint Archange\nhttps://no
+ minis.cef.fr/contenus/saint/978/Saint-Michel.html\n\nSaint Raphaël - Sain
+ t Archange\nhttps://nominis.cef.fr/contenus/saint/979/Saint-Rapha%C3%ABl.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-0930-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jérôme
+DESCRIPTION:Saint Jérôme - Père et Docteur de l'Église (+ 420)\nhttps:/
+ /nominis.cef.fr/contenus/saint/1942/Saint-J%C3%A9r%C3%B4me.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1001-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Thérèse de l'Enfant-Jésus
+DESCRIPTION:Sainte Thérèse de l'Enfant-Jésus - Thérèse de Lisieux\, do
+ cteur de l'Église (+ 1897)\nhttps://nominis.cef.fr/contenus/saint/1949/Sa
+ inte-Th%C3%A9r%C3%A8se-de-l-Enfant-J%C3%A9sus.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1002-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Anges gardiens
+DESCRIPTION:Saints Anges gardiens - Fête en l'honneur des anges gardiens\n
+ https://nominis.cef.fr/contenus/saint/1950/Saints-Anges-gardiens.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1003-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gérard de Brogne
+DESCRIPTION:Saint Gérard de Brogne - Fondateur de l'Abbaye de Brogne (+ 95
+ 9)\nhttps://nominis.cef.fr/contenus/saint/1957/Saint-G%C3%A9rard-de-Brogne
+ .html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1004-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint François d'Assise
+DESCRIPTION:Saint François d'Assise - Fondateur de l'ordre des Frères min
+ eurs (+ 1226)\nhttps://nominis.cef.fr/contenus/saint/800/Saint-Fran%C3%A7o
+ is-d-Assise.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1005-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Faustine
+DESCRIPTION:Sainte Faustine - Marie Faustine - Hélène Kowalska - religieu
+ se à Cracovie (+ 1938)\nhttps://nominis.cef.fr/contenus/saint/9899/Sainte
+ -Faustine.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1006-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Bruno
+DESCRIPTION:Saint Bruno - Fondateur des Chartreux (+ 1101)\nhttps://nominis
+ .cef.fr/contenus/saint/1969/Saint-Bruno.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1007-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Auguste • Notre-Dame du Rosaire -
+DESCRIPTION:Saint Auguste - Prêtre et abbé à Bourges (+ 560)\nhttps://no
+ minis.cef.fr/contenus/saint/8446/Saint-Auguste.html\n\nNotre-Dame du Rosai
+ re -\nhttps://nominis.cef.fr/contenus/saint/1975/Notre-Dame-du-Rosaire.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1008-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Pélagie la Pénitente
+DESCRIPTION:Sainte Pélagie la Pénitente - Martyre à Antioche (+ v. 302)\
+ nhttps://nominis.cef.fr/contenus/saint/1978/Sainte-P%C3%A9lagie-la-P%C3%A9
+ nitente.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1009-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Denis de Paris
+DESCRIPTION:Saint Denis de Paris - Et ses compagnons\, martyrs à Paris (II
+ Ie siècle)\nhttps://nominis.cef.fr/contenus/saint/1985/Saint-Denis-de-Par
+ is.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1010-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Daniel et ses compagnons
+DESCRIPTION:Saint Daniel et ses compagnons - Frère mineurs\, martyrs à Ce
+ uta\, au Maroc (+ 1227)\nhttps://nominis.cef.fr/contenus/saint/1991/Saint-
+ Daniel-et-ses-compagnons.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1011-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Théophane l'Hymnographe
+DESCRIPTION:Saint Théophane l'Hymnographe - évêque de Nicée (IXe siècl
+ e)\nhttps://nominis.cef.fr/contenus/saint/8540/Saint-Th%C3%A9ophane-l-Hymn
+ ographe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1012-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Spérie
+DESCRIPTION:Sainte Spérie - Patronne de Saint-Céré (+ 760)\nhttps://nomi
+ nis.cef.fr/contenus/saint/9892/Sainte-Sp%C3%A9rie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1013-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Géraud d'Aurillac
+DESCRIPTION:Saint Géraud d'Aurillac - Fondateur de l'abbaye d'Aurillac (+ 
+ 909)\nhttps://nominis.cef.fr/contenus/saint/2010/Saint-G%C3%A9raud-d-Auril
+ lac.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1014-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Calixte Ier
+DESCRIPTION:Saint Calixte Ier - Pape (16e) de 217 à 222 (+ 222)\nhttps://n
+ ominis.cef.fr/contenus/saint/2014/Saint-Calixte-Ier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1015-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Thérèse d'Avila
+DESCRIPTION:Sainte Thérèse d'Avila - Réformatrice du Carmel et docteur d
+ e l'Église (+ 1582)\nhttps://nominis.cef.fr/contenus/saint/2022/Sainte-Th
+ %C3%A9r%C3%A8se-d-Avila.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1016-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Hedwige • Sainte Marguerite-Marie Alacoque
+DESCRIPTION:Sainte Hedwige - Duchesse de Silésie (+ 1243)\nhttps://nominis
+ .cef.fr/contenus/saint/2026/Sainte-Hedwige.html\n\nSainte Marguerite-Marie
+  Alacoque - Religieuse visitandine à Paray-le-Monial (+ 1690)\nhttps://no
+ minis.cef.fr/contenus/saint/2028/Sainte-Marguerite-Marie-Alacoque.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1017-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ignace d'Antioche
+DESCRIPTION:Saint Ignace d'Antioche - Évêque\, martyr\, Père de l'Églis
+ e (+ 115)\nhttps://nominis.cef.fr/contenus/saint/2032/Saint-Ignace-d-Antio
+ che.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1018-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Luc
+DESCRIPTION:Saint Luc - Évangéliste (Ier siècle)\nhttps://nominis.cef.fr
+ /contenus/saint/2037/Saint-Luc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1019-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Isaac Jogues • Saint René Goupil
+DESCRIPTION:Saint Isaac Jogues - Missionnaire jésuite au Canada (+ 1646)\n
+ https://nominis.cef.fr/contenus/saint/8609/Saint-Isaac-Jogues.html\n\nSain
+ t René Goupil - Martyr au Canada (+ 1642)\nhttps://nominis.cef.fr/contenu
+ s/saint/1937/Saint-Ren%C3%A9-Goupil.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1020-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Adeline
+DESCRIPTION:Sainte Adeline - Abbesse à Mortain (+ 1125)\nhttps://nominis.c
+ ef.fr/contenus/saint/2044/Sainte-Adeline.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1021-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Céline
+DESCRIPTION:Sainte Céline - Mère de saint Remi de Reims (Ve siècle)\nhtt
+ ps://nominis.cef.fr/contenus/saint/2050/Sainte-C%C3%A9line.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1022-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saintes Elodie et Nunilon • Sainte Salomé la Myrophore
+DESCRIPTION:Saintes Elodie et Nunilon - Martyres à Cordoue (+ 851)\nhttps:
+ //nominis.cef.fr/contenus/saint/2049/Saintes-Elodie-et-Nunilon.html\n\nSai
+ nte Salomé la Myrophore - épouse de Zébédée et mère des apôtres Jac
+ ques et Jean (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/2061/Sai
+ nte-Salom%C3%A9-la-Myrophore.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1023-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean de Capistran
+DESCRIPTION:Saint Jean de Capistran - Frère mineur (+ 1456)\nhttps://nomin
+ is.cef.fr/contenus/saint/2066/Saint-Jean-de-Capistran.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1024-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Florentin
+DESCRIPTION:Saint Florentin - Moine (VIIe siècle)\nhttps://nominis.cef.fr/
+ contenus/saint/343/Saint-Florentin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1025-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Chély (Hilaire de Mende) • Saints Crépin et Crépinien
+DESCRIPTION:Saint Chély (Hilaire de Mende) - évêque (+ 540)\nhttps://nom
+ inis.cef.fr/contenus/saint/8706/Saint-Ch%C3%A9ly-%28Hilaire-de-Mende%29.ht
+ ml\n\nSaints Crépin et Crépinien - Martyrs à Soissons (+ 285)\nhttps://
+ nominis.cef.fr/contenus/saint/2076/Saints-Cr%C3%A9pin-et-Cr%C3%A9pinien.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1026-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Demetrius
+DESCRIPTION:Saint Demetrius - Martyr à Sirmium en Dalmatie (IVe siècle)\n
+ https://nominis.cef.fr/contenus/saint/10838/Saint-Demetrius.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1027-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Emeline
+DESCRIPTION:Bienheureuse Emeline - Religieuse ermite (XIIe siècle)\nhttps:
+ //nominis.cef.fr/contenus/saint/2144/Bienheureuse-Emeline.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1028-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jude • Saint Simon le Cananéen
+DESCRIPTION:Saint Jude - "Thaddée"\, apôtre (Ier siècle)\nhttps://nomini
+ s.cef.fr/contenus/saint/2092/Saint-Jude.html\n\nSaint Simon le Cananéen -
+  "Simon le Zélote"\, apôtre (Ier siècle)\nhttps://nominis.cef.fr/conten
+ us/saint/2094/Saint-Simon-le-Canan%C3%A9en.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1029-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Narcisse
+DESCRIPTION:Saint Narcisse - évêque de Jérusalem (+ 212)\nhttps://nomini
+ s.cef.fr/contenus/saint/2098/Saint-Narcisse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1030-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureuse Bienvenue Bojani
+DESCRIPTION:Bienheureuse Bienvenue Bojani - Tertiaire dominicaine (+ 1292)\
+ nhttps://nominis.cef.fr/contenus/saint/2101/Bienheureuse-Bienvenue-Bojani.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1031-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Quentin
+DESCRIPTION:Saint Quentin - Martyr dans le Vermandois (IIIe siècle)\nhttps
+ ://nominis.cef.fr/contenus/saint/2110/Saint-Quentin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1101-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Tous les saints
+DESCRIPTION:Tous les saints - La Toussaint\, fête de tous les saints\nhttp
+ s://nominis.cef.fr/contenus/saint/169/Tous-les-saints.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1102-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Commémoration des défunts
+DESCRIPTION:Commémoration des défunts - Lendemain de la Toussaint\nhttps:
+ //nominis.cef.fr/contenus/saint/170/Comm%C3%A9moration-des-d%C3%A9funts.ht
+ ml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1103-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Hubert • Saint Martin de Porres
+DESCRIPTION:Saint Hubert - Évêque de Tongres-Maastricht-Liège (+ 727)\nh
+ ttps://nominis.cef.fr/contenus/saint/6/Saint-Hubert.html\n\nSaint Martin d
+ e Porres - Frère dominicain à Lima (+ 1639)\nhttps://nominis.cef.fr/cont
+ enus/saint/42/Saint-Martin-de-Porres.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1104-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Charles Borromée
+DESCRIPTION:Saint Charles Borromée - Archevêque de Milan (+ 1584)\nhttps:
+ //nominis.cef.fr/contenus/saint/7/Saint-Charles-Borrom%C3%A9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1105-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Bertille
+DESCRIPTION:Sainte Bertille - Moniale à Jouarre puis abbesse de Chelles (+
+  v. 705)\nhttps://nominis.cef.fr/contenus/saint/9/Sainte-Bertille.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1106-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Léonard de Noblat
+DESCRIPTION:Saint Léonard de Noblat - Ermite en Limousin (VIe siècle)\nht
+ tps://nominis.cef.fr/contenus/saint/53/Saint-L%C3%A9onard-de-Noblat.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1107-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Karine\, Mélassippe et Antoine • Saint Willibrord
+DESCRIPTION:Saints Karine\, Mélassippe et Antoine - Martyrs à Ankara (IVe
+  siècle)\nhttps://nominis.cef.fr/contenus/saint/2162/Saints-Karine--M%C3%
+ A9lassippe-et-Antoine.html\n\nSaint Willibrord - Évêque d'Utrecht (+ 739
+ )\nhttps://nominis.cef.fr/contenus/saint/63/Saint-Willibrord.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1108-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Geoffroy d'Amiens
+DESCRIPTION:Saint Geoffroy d'Amiens - Évêque d'Amiens (+ 1115)\nhttps://n
+ ominis.cef.fr/contenus/saint/10/Saint-Geoffroy-d-Amiens.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1109-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Dédicace de la Basilique du Latran • Saint Théodore
+DESCRIPTION:Dédicace de la Basilique du Latran - Basilique saint Jean de L
+ atran\, à Rome\nhttps://nominis.cef.fr/contenus/saint/174/D%C3%A9dicace-d
+ e-la-Basilique-du-Latran.html\n\nSaint Théodore - Soldat\, martyr à Euch
+ aïta\, dans le Pont (+ v. 304)\nhttps://nominis.cef.fr/contenus/saint/11/
+ Saint-Th%C3%A9odore.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1110-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Léon le Grand
+DESCRIPTION:Saint Léon le Grand - Pape (45e) de 440 à 461 (+ 461)\nhttps:
+ //nominis.cef.fr/contenus/saint/12/Saint-L%C3%A9on-le-Grand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1111-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Martin de Tours
+DESCRIPTION:Saint Martin de Tours - évêque (+ 397)\nhttps://nominis.cef.f
+ r/contenus/saint/13/Saint-Martin-de-Tours.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1112-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Josaphat Kuntsevych
+DESCRIPTION:Saint Josaphat Kuntsevych - évêque basilien et martyr à Vite
+ bak (+ 1623)\nhttps://nominis.cef.fr/contenus/saint/14/Saint-Josaphat-Kunt
+ sevych.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1113-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Brice
+DESCRIPTION:Saint Brice - évêque de Tours (+ v. 444)\nhttps://nominis.cef
+ .fr/contenus/saint/1/Saint-Brice.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1114-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Laurent de Dublin
+DESCRIPTION:Saint Laurent de Dublin - Abbé de Glendalough\, et archevêque
+  de Dublin (+ 1180)\nhttps://nominis.cef.fr/contenus/saint/96/Saint-Lauren
+ t-de-Dublin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1115-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Albert le Grand • Sainte Victoire
+DESCRIPTION:Saint Albert le Grand - Frère prêcheur\, évêque de Ratisbon
+ ne\, docteur de l'Église (+ 1280)\nhttps://nominis.cef.fr/contenus/saint/
+ 3/Saint-Albert-le-Grand.html\n\nSainte Victoire - Martyre des premiers si
+ ècles\nhttps://nominis.cef.fr/contenus/saint/9877/Sainte-Victoire.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1116-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Marguerite d'Ecosse
+DESCRIPTION:Sainte Marguerite d'Ecosse - Reine d'Ecosse (+ 1093)\nhttps://n
+ ominis.cef.fr/contenus/saint/9878/Sainte-Marguerite-d-Ecosse.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1117-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Elisabeth de Thuringe
+DESCRIPTION:Sainte Elisabeth de Thuringe - Elisabeth de Hongrie\, duchesse 
+ (+ 1231)\nhttps://nominis.cef.fr/contenus/saint/5/Sainte-Elisabeth-de-Thur
+ inge.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1118-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Aude • Sainte Rose-Philippine Duchesne
+DESCRIPTION:Sainte Aude - Ou Odette\, vierge à Paris (Ve siècle)\nhttps:/
+ /nominis.cef.fr/contenus/saint/15/Sainte-Aude.html\n\nSainte Rose-Philippi
+ ne Duchesne - Religieuse - missionnaire aux Etats-Unis (+ 1852)\nhttps://n
+ ominis.cef.fr/contenus/saint/9221/Sainte-Rose-Philippine-Duchesne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1119-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Tanguy
+DESCRIPTION:Saint Tanguy - Abbé en Bretagne (date ?)\nhttps://nominis.cef.
+ fr/contenus/saint/16/Saint-Tanguy.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1120-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Edmond le Martyr
+DESCRIPTION:Saint Edmond le Martyr - Roi d'Est-Anglia\, martyr (+ 870)\nhtt
+ ps://nominis.cef.fr/contenus/saint/17/Saint-Edmond-le-Martyr.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1121-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Présentation de la Vierge Marie -
+DESCRIPTION:Présentation de la Vierge Marie -\nhttps://nominis.cef.fr/cont
+ enus/saint/116/Pr%C3%A9sentation-de-la-Vierge-Marie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1122-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Cécile de Rome
+DESCRIPTION:Sainte Cécile de Rome - Vierge romaine (+ 230)\nhttps://nomini
+ s.cef.fr/contenus/saint/18/Sainte-C%C3%A9cile-de-Rome.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1123-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Clément Ier • Saint Séverin de Paris
+DESCRIPTION:Saint Clément Ier - Pape (4e) de 88 à 97 et martyr (+ 97)\nht
+ tps://nominis.cef.fr/contenus/saint/19/Saint-Cl%C3%A9ment-Ier.html\n\nSain
+ t Séverin de Paris - Ermite à Paris (+ v. 540)\nhttps://nominis.cef.fr/c
+ ontenus/saint/23/Saint-S%C3%A9verin-de-Paris.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1124-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saintes Flora et Marie • Saints Martyrs du Vietnam
+DESCRIPTION:Saintes Flora et Marie - Martyres à Cordoue (+ 854)\nhttps://n
+ ominis.cef.fr/contenus/saint/176/Saintes-Flora-et-Marie.html\n\nSaints Mar
+ tyrs du Vietnam - André Dung Lac\, prêtre et ses compagnons martyrs entr
+ e 1745 et 1862\nhttps://nominis.cef.fr/contenus/saint/9338/Saints-Martyrs-
+ du-Vietnam.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1125-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Catherine d'Alexandrie
+DESCRIPTION:Sainte Catherine d'Alexandrie - Vierge et martyre (IVe siècle)
+ \nhttps://nominis.cef.fr/contenus/saint/21/Sainte-Catherine-d-Alexandrie.h
+ tml
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1126-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Innocent d'Irkoutsk
+DESCRIPTION:Saint Innocent d'Irkoutsk - Missionnaire en Sibérie (+ 1731)\n
+ https://nominis.cef.fr/contenus/saint/129/Saint-Innocent-d-Irkoutsk.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1127-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Fête de la Vierge Marie en son icône du signe
+DESCRIPTION:Fête de la Vierge Marie en son icône du signe - Miracle comm
+ émoré chaque année\nhttps://nominis.cef.fr/contenus/saint/9970/F%C3%AAt
+ e-de-la-Vierge-Marie-en-son-ic%C3%B4ne-du-signe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1128-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Catherine Labouré • Saint Jacques de la Marche
+DESCRIPTION:Sainte Catherine Labouré - Fille de la Charité (+ 1876)\nhttp
+ s://nominis.cef.fr/contenus/saint/9305/Sainte-Catherine-Labour%C3%A9.html\
+ n\nSaint Jacques de la Marche - Frère mineur à Naples (+ 1476)\nhttps://
+ nominis.cef.fr/contenus/saint/141/Saint-Jacques-de-la-Marche.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1129-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Sernin
+DESCRIPTION:Saint Sernin -  ou Saturnin\, martyr et évêque de Toulouse (I
+ IIe siècle)\nhttps://nominis.cef.fr/contenus/saint/9431/Saint-Sernin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1130-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint André
+DESCRIPTION:Saint André - Apôtre et martyr (+ 62)\nhttps://nominis.cef.fr
+ /contenus/saint/25/Saint-Andr%C3%A9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1201-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Eloi • Sainte Florence
+DESCRIPTION:Saint Eloi - évêque de Noyon (+ 660)\nhttps://nominis.cef.fr/
+ contenus/saint/205/Saint-Eloi.html\n\nSainte Florence - Convertie par sain
+ t Hilaire\, recluse à Comblé (+ 367)\nhttps://nominis.cef.fr/contenus/sa
+ int/340/Sainte-Florence.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1202-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Bibiane • Saint Silvère
+DESCRIPTION:Sainte Bibiane - Vierge et martyre (+ 363)\nhttps://nominis.cef
+ .fr/contenus/saint/208/Sainte-Bibiane.html\n\nSaint Silvère - Pape (58e) 
+ de 536 à 537 et martyr (+ 537)\nhttps://nominis.cef.fr/contenus/saint/135
+ 7/Saint-Silv%C3%A8re.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1203-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint François-Xavier
+DESCRIPTION:Saint François-Xavier - Jésuite missionnaire (+ 1552)\nhttps:
+ //nominis.cef.fr/contenus/saint/214/Saint-Fran%C3%A7ois-Xavier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1204-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Barbe • Saint Jean Damascène
+DESCRIPTION:Sainte Barbe - Vierge et martyre (+ 235)\nhttps://nominis.cef.f
+ r/contenus/saint/213/Sainte-Barbe.html\n\nSaint Jean Damascène - Jean de 
+ Damas\, Docteur de l'Église (+ 749)\nhttps://nominis.cef.fr/contenus/sain
+ t/215/Saint-Jean-Damasc%C3%A8ne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1205-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gérald
+DESCRIPTION:Saint Gérald - Archevêque de Braga (+ v. 1108)\nhttps://nomin
+ is.cef.fr/contenus/saint/224/Saint-G%C3%A9rald.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1206-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Nicolas de Myre
+DESCRIPTION:Saint Nicolas de Myre - Évêque de Myre (+ v. 350)\nhttps://no
+ minis.cef.fr/contenus/saint/227/Saint-Nicolas-de-Myre.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1207-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Ambroise de Milan
+DESCRIPTION:Saint Ambroise de Milan - Évêque et Docteur de l'Église (+ 3
+ 97)\nhttps://nominis.cef.fr/contenus/saint/230/Saint-Ambroise-de-Milan.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1208-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Immaculée Conception - • Saint Romaric
+DESCRIPTION:Immaculée Conception -\nhttps://nominis.cef.fr/contenus/saint/
+ 235/Immacul%C3%A9e-Conception.html\n\nSaint Romaric - Fondateur de Remirem
+ ont (+ 653)\nhttps://nominis.cef.fr/contenus/saint/245/Saint-Romaric.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1209-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Léocadie • Saint Pierre Fourier
+DESCRIPTION:Sainte Léocadie - Vierge et martyre à Tolède (+ v. 303)\nhtt
+ ps://nominis.cef.fr/contenus/saint/239/Sainte-L%C3%A9ocadie.html\n\nSaint 
+ Pierre Fourier - Prêtre à Gray\, en Franche-Comté (+ 1640)\nhttps://nom
+ inis.cef.fr/contenus/saint/240/Saint-Pierre-Fourier.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1210-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Eulalie
+DESCRIPTION:Sainte Eulalie - Vierge et martyre à Mérida (+ 304)\nhttps://
+ nominis.cef.fr/contenus/saint/242/Sainte-Eulalie.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1211-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Damase Ier • Saint Daniel le Stylite
+DESCRIPTION:Saint Damase Ier - Pape (37e) de 366 à 384 (+ 384)\nhttps://no
+ minis.cef.fr/contenus/saint/246/Saint-Damase-Ier.html\n\nSaint Daniel le S
+ tylite - Prêtre au Proche-Orient (+ 489)\nhttps://nominis.cef.fr/contenus
+ /saint/247/Saint-Daniel-le-Stylite.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1212-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Corentin • Notre Dame de Guadalupe -
+DESCRIPTION:Saint Corentin - Évêque de Quimper (Ve siècle)\nhttps://nomi
+ nis.cef.fr/contenus/saint/248/Saint-Corentin.html\n\nNotre Dame de Guadalu
+ pe -\nhttps://nominis.cef.fr/contenus/saint/10072/Notre-Dame-de-Guadalupe.
+ html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1213-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Lucie de Syracuse
+DESCRIPTION:Sainte Lucie de Syracuse - Vierge et martyre en Sicile (+ v. 30
+ 5)\nhttps://nominis.cef.fr/contenus/saint/253/Sainte-Lucie-de-Syracuse.htm
+ l
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1214-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean de la Croix • Sainte Odile
+DESCRIPTION:Saint Jean de la Croix - Carme\, docteur de l'Église (+ 1591)\
+ nhttps://nominis.cef.fr/contenus/saint/20/Saint-Jean-de-la-Croix.html\n\nS
+ ainte Odile - Vierge en Alsace (+ 720)\nhttps://nominis.cef.fr/contenus/sa
+ int/257/Sainte-Odile.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1215-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Nino
+DESCRIPTION:Sainte Nino - Vénérée en Géorgie (IVe siècle)\nhttps://nom
+ inis.cef.fr/contenus/saint/260/Sainte-Nino.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1216-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Adélaïde
+DESCRIPTION:Sainte Adélaïde - Impératrice du Saint Empire (+ 999)\nhttps
+ ://nominis.cef.fr/contenus/saint/264/Sainte-Ad%C3%A9la%C3%AFde.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1217-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Judicaël
+DESCRIPTION:Saint Judicaël - Roi de Bretagne puis moine (+ 658)\nhttps://n
+ ominis.cef.fr/contenus/saint/272/Saint-Judica%C3%ABl.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1218-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Gatien de Tours
+DESCRIPTION:Saint Gatien de Tours - évêque de Tours (IVe siècle)\nhttps:
+ //nominis.cef.fr/contenus/saint/278/Saint-Gatien-de-Tours.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1219-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Urbain V
+DESCRIPTION:Bienheureux Urbain V - Pape (200e) de 1362 à 1370 (+ 1370)\nht
+ tps://nominis.cef.fr/contenus/saint/284/Bienheureux-Urbain-V.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1220-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Zéphyrin
+DESCRIPTION:Saint Zéphyrin - Pape (15e) de 199 à 217 (+ 217)\nhttps://nom
+ inis.cef.fr/contenus/saint/1745/Saint-Z%C3%A9phyrin.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1221-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Pierre Canisius
+DESCRIPTION:Saint Pierre Canisius - Docteur de l'Église (+ 1597)\nhttps://
+ nominis.cef.fr/contenus/saint/294/Saint-Pierre-Canisius.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1222-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Françoise-Xavière Cabrini
+DESCRIPTION:Sainte Françoise-Xavière Cabrini - Missionnaire italienne aux
+  USA (+ 1917)\nhttps://nominis.cef.fr/contenus/saint/297/Sainte-Fran%C3%A7
+ oise-Xavi%C3%A8re-Cabrini.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1223-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Bienheureux Armand
+DESCRIPTION:Bienheureux Armand - Évêque de Brixen (Bolzano) (+ 1164)\nhtt
+ ps://nominis.cef.fr/contenus/saint/627/Bienheureux-Armand.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1224-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Sainte Adèle
+DESCRIPTION:Sainte Adèle - Abbesse bénédictine à Pfalzel (+ 735)\nhttps
+ ://nominis.cef.fr/contenus/saint/304/Sainte-Ad%C3%A8le.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1225-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Nativité du Christ
+DESCRIPTION:Nativité du Christ - Noël chrétien\, fête de la naissance d
+ e Jésus (Ier siècle)\nhttps://nominis.cef.fr/contenus/saint/312/Nativit%
+ C3%A9-du-Christ.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1226-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Étienne
+DESCRIPTION:Saint Étienne - Diacre et premier martyr (+ 35)\nhttps://nomin
+ is.cef.fr/contenus/saint/315/Saint-%C3%89tienne.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1227-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean l'évangéliste
+DESCRIPTION:Saint Jean l'évangéliste - Apôtre et évangéliste (+ 101)\n
+ https://nominis.cef.fr/contenus/saint/321/Saint-Jean-l-%C3%A9vang%C3%A9lis
+ te.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1228-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saints Innocents
+DESCRIPTION:Saints Innocents - Enfants de moins de 2 ans massacrés pour le
+  Christ par Hérode à Bethléem (Ier siècle)\nhttps://nominis.cef.fr/con
+ tenus/saint/325/Saints-Innocents.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1229-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint David
+DESCRIPTION:Saint David - Fils de Jessé\, roi de Juda et d'Israël\, ancie
+ n testament (Xe siècle av. J.-C.)\nhttps://nominis.cef.fr/contenus/saint/
+ 326/Saint-David.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1230-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Roger
+DESCRIPTION:Saint Roger - Saint légendaire\, vénéré à Barletta\, dans 
+ les Pouilles (+ v. 1129)\nhttps://nominis.cef.fr/contenus/saint/1113/Saint
+ -Roger.html
+END:VEVENT
+BEGIN:VEVENT
+UID:nominis-1231-regroupe@local
+DTSTAMP:20260929T155623Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+RRULE:FREQ=YEARLY
+CLASS:PUBLIC
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+SUMMARY:Saint Jean François Régis • Sainte Famille • Saint Sylvestre 
+ Ier
+DESCRIPTION:Saint Jean François Régis - Jésuite - apôtre du Vivarais (+
+  1640)\nhttps://nominis.cef.fr/contenus/saint/9847/Saint-Jean-Fran%C3%A7oi
+ s-R%C3%A9gis.html\n\nSainte Famille - (Ier siècle)\nhttps://nominis.cef.f
+ r/contenus/saint/333/Sainte-Famille.html\n\nSaint Sylvestre Ier - Pape (33
+ e) de 314 à 335 (+ 335)\nhttps://nominis.cef.fr/contenus/saint/339/Saint-
+ Sylvestre-Ier.html
+END:VEVENT
+END:VCALENDAR
